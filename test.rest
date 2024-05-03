@@ -1,0 +1,9 @@
+GET http://localhost:8000/data/np
+
+###
+GET http://localhost:8000/signatories
+
+###
+GET http://localhost:8000/treaties
+
+###
