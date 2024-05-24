@@ -8,3 +8,4 @@ A python / fastapi back-end for the [fairwater-webapp](https://github.com/pjuele
 ### Dependencies:
 - [FastApi](https://fastapi.tiangolo.com/)
 - [pycountry](https://pypi.org/project/pycountry/)
+- [pandas](https://pypi.org/project/pandas/)

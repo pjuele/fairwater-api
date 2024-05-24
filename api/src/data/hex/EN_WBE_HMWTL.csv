@@ -1,0 +1,88 @@
+Goal,Target,Indicator,SeriesCode,SeriesDescription,GeoAreaCode,GeoAreaName,Reporting Type,Units,2021
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),2,Africa,G,KMSQ,27651.28
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),19,Americas,G,KMSQ,67613.41
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),51,Armenia,G,KMSQ,283
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),142,Asia,G,KMSQ,646391.19
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),40,Austria,G,KMSQ,0.77
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),50,Bangladesh,G,KMSQ,4401.09
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),112,Belarus,G,KMSQ,1333.03
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),204,Benin,G,KMSQ,8.77
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),76,Brazil,G,KMSQ,41157.4
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),100,Bulgaria,G,KMSQ,756.5
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),29,Caribbean,G,KMSQ,1833.22
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),135,Caucasus and Central Asia,G,KMSQ,893
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),13,Central America,G,KMSQ,10228.4
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),62,Central and Southern Asia,G,KMSQ,44562.88
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),156,China,G,KMSQ,368079.8
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),188,Costa Rica,G,KMSQ,259.9
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),203,Czechia,G,KMSQ,893.36
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),514,"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",G,KMSQ,6144.65
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),515,Developing regions,G,KMSQ,702236.53
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),214,Dominican Republic,G,KMSQ,1816
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),14,Eastern Africa,G,KMSQ,19430.44
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),753,Eastern and South-Eastern Asia,G,KMSQ,587987.04
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),30,Eastern Asia,G,KMSQ,368189.7
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),223,Eastern Asia (excluding Japan and China),G,KMSQ,109.9
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),518,Eastern Asia (excluding Japan),G,KMSQ,368189.7
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),151,Eastern Europe,G,KMSQ,4162.89
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),222,El Salvador,G,KMSQ,778
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),233,Estonia,G,KMSQ,800
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),748,Eswatini,G,KMSQ,35.83
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),150,Europe,G,KMSQ,6144.65
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),513,Europe and Northern America,G,KMSQ,6144.65
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),270,Gambia,G,KMSQ,1
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),356,India,G,KMSQ,39418.32
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),360,Indonesia,G,KMSQ,74639.48
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),364,Iran (Islamic Republic of),G,KMSQ,54.27
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),368,Iraq,G,KMSQ,6100
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),414,Kuwait,G,KMSQ,12.5
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),432,Landlocked developing countries (LLDCs),G,KMSQ,6876.41
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),419,Latin America and the Caribbean,G,KMSQ,67613.42
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),199,Least Developed Countries (LDCs),G,KMSQ,71291.82
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),426,Lesotho,G,KMSQ,36
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),440,Lithuania,G,KMSQ,472.74
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),450,Madagascar,G,KMSQ,12515.3
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),480,Mauritius,G,KMSQ,11.46
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),484,Mexico,G,KMSQ,8383.27
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),57,Micronesia,G,KMSQ,0.47
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),499,Montenegro,G,KMSQ,14.5
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),504,Morocco,G,KMSQ,739.01
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),508,Mozambique,G,KMSQ,383.17
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),104,Myanmar,G,KMSQ,52546.77
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),15,Northern Africa,G,KMSQ,739.01
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),746,Northern Africa (exc. Sudan),G,KMSQ,739.01
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),747,Northern Africa and Western Asia,G,KMSQ,14579.73
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),154,Northern Europe,G,KMSQ,1272.74
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),9,Oceania,G,KMSQ,0.47
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),543,Oceania (exc. Australia and New Zealand),G,KMSQ,0.47
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),585,Palau,G,KMSQ,0.45
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),591,Panama,G,KMSQ,812.02
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),608,Philippines,G,KMSQ,160.7
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),616,Poland,G,KMSQ,1180
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),620,Portugal,G,KMSQ,81.53
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),410,Republic of Korea,G,KMSQ,109.9
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),686,Senegal,G,KMSQ,1400
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),722,Small island developing States (SIDS),G,KMSQ,1845.15
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),710,South Africa,G,KMSQ,6000
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),5,South America,G,KMSQ,55551.79
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),35,South-Eastern Asia,G,KMSQ,219797.34
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),18,Southern Africa,G,KMSQ,6071.9
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),34,Southern Asia,G,KMSQ,43951.88
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),127,Southern Asia (excluding India),G,KMSQ,4533.56
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),39,Southern Europe,G,KMSQ,708.25
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),724,Spain,G,KMSQ,612.22
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),144,Sri Lanka,G,KMSQ,78
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),202,Sub-Saharan Africa,G,KMSQ,26876.51
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),738,Sub-Saharan Africa (inc. Sudan),G,KMSQ,26912.34
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),762,Tajikistan,G,KMSQ,611
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),780,Trinidad and Tobago,G,KMSQ,17.22
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),792,Türkiye,G,KMSQ,3523.46
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),858,Uruguay,G,KMSQ,10438.78
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),862,Venezuela (Bolivarian Republic of),G,KMSQ,3955.61
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),704,Viet Nam,G,KMSQ,92450.4
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),11,Western Africa,G,KMSQ,1410
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),145,Western Asia,G,KMSQ,13840.72
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),155,Western Europe,G,KMSQ,0.77
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),1,World,G,KMSQ,743884.74
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),887,Yemen,G,KMSQ,0.5
+6,6.6,6.6.1,EN_WBE_HMWTL,Extent of human made wetlands (square kilometres),716,Zimbabwe,G,KMSQ,6521.51

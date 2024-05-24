@@ -7,3 +7,9 @@ GET http://localhost:8000/signatories
 GET http://localhost:8000/treaties
 
 ###
+GET http://localhost:8000/countries
+
+###
+GET http://localhost:8000/gdp
+
+###

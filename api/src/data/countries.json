@@ -1,8 +1,8 @@
 {
     "AF": {
-        "Country Name": "Afghanistan",
-        "ISO2": "AF",
-        "ISO3": "AFG",
+        "name": "Afghanistan",
+        "code": "AF",
+        "code3": "AFG",
         "Top Level Domain": "af",
         "FIPS": "AF",
         "ISO Numeric": "004",
@@ -27,9 +27,9 @@
         "japaneseShortName": "アフガニスタン"
     },
     "AL": {
-        "Country Name": "Albania",
-        "ISO2": "AL",
-        "ISO3": "ALB",
+        "name": "Albania",
+        "code": "AL",
+        "code3": "ALB",
         "Top Level Domain": "al",
         "FIPS": "AL",
         "ISO Numeric": "008",
@@ -54,9 +54,9 @@
         "japaneseShortName": "アルバニア"
     },
     "DZ": {
-        "Country Name": "Algeria",
-        "ISO2": "DZ",
-        "ISO3": "DZA",
+        "name": "Algeria",
+        "code": "DZ",
+        "code3": "DZA",
         "Top Level Domain": "dz",
         "FIPS": "AG",
         "ISO Numeric": "012",
@@ -81,9 +81,9 @@
         "japaneseShortName": "アルジェリア"
     },
     "AS": {
-        "Country Name": "American Samoa",
-        "ISO2": "AS",
-        "ISO3": "ASM",
+        "name": "American Samoa",
+        "code": "AS",
+        "code3": "ASM",
         "Top Level Domain": "as",
         "FIPS": "AQ",
         "ISO Numeric": "016",
@@ -108,9 +108,9 @@
         "japaneseShortName": "アメリカ領サモア"
     },
     "AD": {
-        "Country Name": "Andorra",
-        "ISO2": "AD",
-        "ISO3": "AND",
+        "name": "Andorra",
+        "code": "AD",
+        "code3": "AND",
         "Top Level Domain": "ad",
         "FIPS": "AN",
         "ISO Numeric": "020",
@@ -135,9 +135,9 @@
         "japaneseShortName": "アンドラ"
     },
     "AO": {
-        "Country Name": "Angola",
-        "ISO2": "AO",
-        "ISO3": "AGO",
+        "name": "Angola",
+        "code": "AO",
+        "code3": "AGO",
         "Top Level Domain": "ao",
         "FIPS": "AO",
         "ISO Numeric": "024",
@@ -162,9 +162,9 @@
         "japaneseShortName": "アンゴラ"
     },
     "AI": {
-        "Country Name": "Anguilla",
-        "ISO2": "AI",
-        "ISO3": "AIA",
+        "name": "Anguilla",
+        "code": "AI",
+        "code3": "AIA",
         "Top Level Domain": "ai",
         "FIPS": "AV",
         "ISO Numeric": 660,
@@ -189,9 +189,9 @@
         "japaneseShortName": "アンギラ"
     },
     "AQ": {
-        "Country Name": "Antarctica",
-        "ISO2": "AQ",
-        "ISO3": "ATA",
+        "name": "Antarctica",
+        "code": "AQ",
+        "code3": "ATA",
         "Top Level Domain": "aq",
         "FIPS": "AY",
         "ISO Numeric": "010",
@@ -216,9 +216,9 @@
         "japaneseShortName": "南極大陸"
     },
     "AG": {
-        "Country Name": "Antigua and Barbuda",
-        "ISO2": "AG",
-        "ISO3": "ATG",
+        "name": "Antigua and Barbuda",
+        "code": "AG",
+        "code3": "ATG",
         "Top Level Domain": "ag",
         "FIPS": "AC",
         "ISO Numeric": "028",
@@ -243,9 +243,9 @@
         "japaneseShortName": "アンティグア・バーブーダ"
     },
     "AR": {
-        "Country Name": "Argentina",
-        "ISO2": "AR",
-        "ISO3": "ARG",
+        "name": "Argentina",
+        "code": "AR",
+        "code3": "ARG",
         "Top Level Domain": "ar",
         "FIPS": "AR",
         "ISO Numeric": "032",
@@ -270,9 +270,9 @@
         "japaneseShortName": "アルゼンチン"
     },
     "AM": {
-        "Country Name": "Armenia",
-        "ISO2": "AM",
-        "ISO3": "ARM",
+        "name": "Armenia",
+        "code": "AM",
+        "code3": "ARM",
         "Top Level Domain": "am",
         "FIPS": "AM",
         "ISO Numeric": "051",
@@ -297,9 +297,9 @@
         "japaneseShortName": "アルメニア"
     },
     "AW": {
-        "Country Name": "Aruba",
-        "ISO2": "AW",
-        "ISO3": "ABW",
+        "name": "Aruba",
+        "code": "AW",
+        "code3": "ABW",
         "Top Level Domain": "aw",
         "FIPS": "AA",
         "ISO Numeric": 533,
@@ -324,9 +324,9 @@
         "japaneseShortName": "アルバ"
     },
     "AU": {
-        "Country Name": "Australia",
-        "ISO2": "AU",
-        "ISO3": "AUS",
+        "name": "Australia",
+        "code": "AU",
+        "code3": "AUS",
         "Top Level Domain": "au",
         "FIPS": "AS",
         "ISO Numeric": "036",
@@ -351,9 +351,9 @@
         "japaneseShortName": "オーストラリア"
     },
     "AT": {
-        "Country Name": "Austria",
-        "ISO2": "AT",
-        "ISO3": "AUT",
+        "name": "Austria",
+        "code": "AT",
+        "code3": "AUT",
         "Top Level Domain": "at",
         "FIPS": "AU",
         "ISO Numeric": "040",
@@ -378,9 +378,9 @@
         "japaneseShortName": "オーストリア"
     },
     "AZ": {
-        "Country Name": "Azerbaijan",
-        "ISO2": "AZ",
-        "ISO3": "AZE",
+        "name": "Azerbaijan",
+        "code": "AZ",
+        "code3": "AZE",
         "Top Level Domain": "az",
         "FIPS": "AJ",
         "ISO Numeric": "031",
@@ -405,9 +405,9 @@
         "japaneseShortName": "アゼルバイジャン"
     },
     "BS": {
-        "Country Name": "Bahamas",
-        "ISO2": "BS",
-        "ISO3": "BHS",
+        "name": "Bahamas",
+        "code": "BS",
+        "code3": "BHS",
         "Top Level Domain": "bs",
         "FIPS": "BF",
         "ISO Numeric": "044",
@@ -432,9 +432,9 @@
         "japaneseShortName": "バハマ"
     },
     "BH": {
-        "Country Name": "Bahrain",
-        "ISO2": "BH",
-        "ISO3": "BHR",
+        "name": "Bahrain",
+        "code": "BH",
+        "code3": "BHR",
         "Top Level Domain": "bh",
         "FIPS": "BA",
         "ISO Numeric": "048",
@@ -459,9 +459,9 @@
         "japaneseShortName": "バーレーン"
     },
     "BD": {
-        "Country Name": "Bangladesh",
-        "ISO2": "BD",
-        "ISO3": "BGD",
+        "name": "Bangladesh",
+        "code": "BD",
+        "code3": "BGD",
         "Top Level Domain": "bd",
         "FIPS": "BG",
         "ISO Numeric": "050",
@@ -486,9 +486,9 @@
         "japaneseShortName": "バングラデシュ"
     },
     "BB": {
-        "Country Name": "Barbados",
-        "ISO2": "BB",
-        "ISO3": "BRB",
+        "name": "Barbados",
+        "code": "BB",
+        "code3": "BRB",
         "Top Level Domain": "bb",
         "FIPS": "BB",
         "ISO Numeric": "052",
@@ -513,9 +513,9 @@
         "japaneseShortName": "バルバドス"
     },
     "BY": {
-        "Country Name": "Belarus",
-        "ISO2": "BY",
-        "ISO3": "BLR",
+        "name": "Belarus",
+        "code": "BY",
+        "code3": "BLR",
         "Top Level Domain": "by",
         "FIPS": "BO",
         "ISO Numeric": 112,
@@ -540,9 +540,9 @@
         "japaneseShortName": "ベラルーシ"
     },
     "BE": {
-        "Country Name": "Belgium",
-        "ISO2": "BE",
-        "ISO3": "BEL",
+        "name": "Belgium",
+        "code": "BE",
+        "code3": "BEL",
         "Top Level Domain": "be",
         "FIPS": "BE",
         "ISO Numeric": "056",
@@ -567,9 +567,9 @@
         "japaneseShortName": "ベルギー"
     },
     "BZ": {
-        "Country Name": "Belize",
-        "ISO2": "BZ",
-        "ISO3": "BLZ",
+        "name": "Belize",
+        "code": "BZ",
+        "code3": "BLZ",
         "Top Level Domain": "bz",
         "FIPS": "BH",
         "ISO Numeric": "084",
@@ -594,9 +594,9 @@
         "japaneseShortName": "ベリーズ"
     },
     "BJ": {
-        "Country Name": "Benin",
-        "ISO2": "BJ",
-        "ISO3": "BEN",
+        "name": "Benin",
+        "code": "BJ",
+        "code3": "BEN",
         "Top Level Domain": "bj",
         "FIPS": "BN",
         "ISO Numeric": 204,
@@ -621,9 +621,9 @@
         "japaneseShortName": "ベナン"
     },
     "BM": {
-        "Country Name": "Bermuda",
-        "ISO2": "BM",
-        "ISO3": "BMU",
+        "name": "Bermuda",
+        "code": "BM",
+        "code3": "BMU",
         "Top Level Domain": "bm",
         "FIPS": "BD",
         "ISO Numeric": "060",
@@ -648,9 +648,9 @@
         "japaneseShortName": "バミューダ"
     },
     "BT": {
-        "Country Name": "Bhutan",
-        "ISO2": "BT",
-        "ISO3": "BTN",
+        "name": "Bhutan",
+        "code": "BT",
+        "code3": "BTN",
         "Top Level Domain": "bt",
         "FIPS": "BT",
         "ISO Numeric": "064",
@@ -675,9 +675,9 @@
         "japaneseShortName": "ブータン"
     },
     "BO": {
-        "Country Name": "Bolivia",
-        "ISO2": "BO",
-        "ISO3": "BOL",
+        "name": "Bolivia",
+        "code": "BO",
+        "code3": "BOL",
         "Top Level Domain": "bo",
         "FIPS": "BL",
         "ISO Numeric": "068",
@@ -702,9 +702,9 @@
         "japaneseShortName": "ボリビア"
     },
     "BA": {
-        "Country Name": "Bosnia and Herzegovina",
-        "ISO2": "BA",
-        "ISO3": "BIH",
+        "name": "Bosnia and Herzegovina",
+        "code": "BA",
+        "code3": "BIH",
         "Top Level Domain": "ba",
         "FIPS": "BK",
         "ISO Numeric": "070",
@@ -729,9 +729,9 @@
         "japaneseShortName": "ボスニア・ヘルツェゴビナ"
     },
     "BW": {
-        "Country Name": "Botswana",
-        "ISO2": "BW",
-        "ISO3": "BWA",
+        "name": "Botswana",
+        "code": "BW",
+        "code3": "BWA",
         "Top Level Domain": "bw",
         "FIPS": "BC",
         "ISO Numeric": "072",
@@ -756,9 +756,9 @@
         "japaneseShortName": "ボツワナ"
     },
     "BR": {
-        "Country Name": "Brazil",
-        "ISO2": "BR",
-        "ISO3": "BRA",
+        "name": "Brazil",
+        "code": "BR",
+        "code3": "BRA",
         "Top Level Domain": "br",
         "FIPS": "BR",
         "ISO Numeric": "076",
@@ -783,9 +783,9 @@
         "japaneseShortName": "ブラジル"
     },
     "IO": {
-        "Country Name": "British Indian Ocean Territory",
-        "ISO2": "IO",
-        "ISO3": "IOT",
+        "name": "British Indian Ocean Territory",
+        "code": "IO",
+        "code3": "IOT",
         "Top Level Domain": "io",
         "FIPS": "IO",
         "ISO Numeric": "086",
@@ -810,9 +810,9 @@
         "japaneseShortName": "イギリス領インド洋地域"
     },
     "VG": {
-        "Country Name": "British Virgin Islands",
-        "ISO2": "VG",
-        "ISO3": "VGB",
+        "name": "British Virgin Islands",
+        "code": "VG",
+        "code3": "VGB",
         "Top Level Domain": "vg",
         "FIPS": "VI",
         "ISO Numeric": "092",
@@ -837,9 +837,9 @@
         "japaneseShortName": "イギリス領ヴァージン諸島"
     },
     "BN": {
-        "Country Name": "Brunei",
-        "ISO2": "BN",
-        "ISO3": "BRN",
+        "name": "Brunei",
+        "code": "BN",
+        "code3": "BRN",
         "Top Level Domain": "bn",
         "FIPS": "BX",
         "ISO Numeric": "096",
@@ -864,9 +864,9 @@
         "japaneseShortName": "ブルネイ・ダルサラーム"
     },
     "BG": {
-        "Country Name": "Bulgaria",
-        "ISO2": "BG",
-        "ISO3": "BGR",
+        "name": "Bulgaria",
+        "code": "BG",
+        "code3": "BGR",
         "Top Level Domain": "bg",
         "FIPS": "BU",
         "ISO Numeric": 100,
@@ -891,9 +891,9 @@
         "japaneseShortName": "ブルガリア"
     },
     "BF": {
-        "Country Name": "Burkina Faso",
-        "ISO2": "BF",
-        "ISO3": "BFA",
+        "name": "Burkina Faso",
+        "code": "BF",
+        "code3": "BFA",
         "Top Level Domain": "bf",
         "FIPS": "UV",
         "ISO Numeric": 854,
@@ -918,9 +918,9 @@
         "japaneseShortName": "ブルキナファソ"
     },
     "BI": {
-        "Country Name": "Burundi",
-        "ISO2": "BI",
-        "ISO3": "BDI",
+        "name": "Burundi",
+        "code": "BI",
+        "code3": "BDI",
         "Top Level Domain": "bi",
         "FIPS": "BY",
         "ISO Numeric": 108,
@@ -945,9 +945,9 @@
         "japaneseShortName": "ブルンジ"
     },
     "KH": {
-        "Country Name": "Cambodia",
-        "ISO2": "KH",
-        "ISO3": "KHM",
+        "name": "Cambodia",
+        "code": "KH",
+        "code3": "KHM",
         "Top Level Domain": "kh",
         "FIPS": "CB",
         "ISO Numeric": 116,
@@ -972,9 +972,9 @@
         "japaneseShortName": "カンボジア"
     },
     "CM": {
-        "Country Name": "Cameroon",
-        "ISO2": "CM",
-        "ISO3": "CMR",
+        "name": "Cameroon",
+        "code": "CM",
+        "code3": "CMR",
         "Top Level Domain": "cm",
         "FIPS": "CM",
         "ISO Numeric": 120,
@@ -999,9 +999,9 @@
         "japaneseShortName": "カメルーン"
     },
     "CA": {
-        "Country Name": "Canada",
-        "ISO2": "CA",
-        "ISO3": "CAN",
+        "name": "Canada",
+        "code": "CA",
+        "code3": "CAN",
         "Top Level Domain": "ca",
         "FIPS": "CA",
         "ISO Numeric": 124,
@@ -1026,9 +1026,9 @@
         "japaneseShortName": "カナダ"
     },
     "CV": {
-        "Country Name": "Cape Verde",
-        "ISO2": "CV",
-        "ISO3": "CPV",
+        "name": "Cape Verde",
+        "code": "CV",
+        "code3": "CPV",
         "Top Level Domain": "cv",
         "FIPS": "CV",
         "ISO Numeric": 132,
@@ -1053,9 +1053,9 @@
         "japaneseShortName": "カーボベルデ"
     },
     "KY": {
-        "Country Name": "Cayman Islands",
-        "ISO2": "KY",
-        "ISO3": "CYM",
+        "name": "Cayman Islands",
+        "code": "KY",
+        "code3": "CYM",
         "Top Level Domain": "ky",
         "FIPS": "CJ",
         "ISO Numeric": 136,
@@ -1080,9 +1080,9 @@
         "japaneseShortName": "ケイマン諸島"
     },
     "CF": {
-        "Country Name": "Central African Republic",
-        "ISO2": "CF",
-        "ISO3": "CAF",
+        "name": "Central African Republic",
+        "code": "CF",
+        "code3": "CAF",
         "Top Level Domain": "cf",
         "FIPS": "CT",
         "ISO Numeric": 140,
@@ -1107,9 +1107,9 @@
         "japaneseShortName": "中央アフリカ共和国"
     },
     "TD": {
-        "Country Name": "Chad",
-        "ISO2": "TD",
-        "ISO3": "TCD",
+        "name": "Chad",
+        "code": "TD",
+        "code3": "TCD",
         "Top Level Domain": "td",
         "FIPS": "CD",
         "ISO Numeric": 148,
@@ -1134,9 +1134,9 @@
         "japaneseShortName": "チャド"
     },
     "CL": {
-        "Country Name": "Chile",
-        "ISO2": "CL",
-        "ISO3": "CHL",
+        "name": "Chile",
+        "code": "CL",
+        "code3": "CHL",
         "Top Level Domain": "cl",
         "FIPS": "CI",
         "ISO Numeric": 152,
@@ -1161,9 +1161,9 @@
         "japaneseShortName": "チリ"
     },
     "CN": {
-        "Country Name": "China",
-        "ISO2": "CN",
-        "ISO3": "CHN",
+        "name": "China",
+        "code": "CN",
+        "code3": "CHN",
         "Top Level Domain": "cn",
         "FIPS": "CH",
         "ISO Numeric": 156,
@@ -1188,9 +1188,9 @@
         "japaneseShortName": "中国"
     },
     "CX": {
-        "Country Name": "Christmas Island",
-        "ISO2": "CX",
-        "ISO3": "CXR",
+        "name": "Christmas Island",
+        "code": "CX",
+        "code3": "CXR",
         "Top Level Domain": "cx",
         "FIPS": "KT",
         "ISO Numeric": 162,
@@ -1215,9 +1215,9 @@
         "japaneseShortName": "クリスマス島"
     },
     "CC": {
-        "Country Name": "Cocos Islands",
-        "ISO2": "CC",
-        "ISO3": "CCK",
+        "name": "Cocos Islands",
+        "code": "CC",
+        "code3": "CCK",
         "Top Level Domain": "cc",
         "FIPS": "CK",
         "ISO Numeric": 166,
@@ -1242,9 +1242,9 @@
         "japaneseShortName": "ココス諸島"
     },
     "CO": {
-        "Country Name": "Colombia",
-        "ISO2": "CO",
-        "ISO3": "COL",
+        "name": "Colombia",
+        "code": "CO",
+        "code3": "COL",
         "Top Level Domain": "co",
         "FIPS": "CO",
         "ISO Numeric": 170,
@@ -1269,9 +1269,9 @@
         "japaneseShortName": "コロンビア"
     },
     "KM": {
-        "Country Name": "Comoros",
-        "ISO2": "KM",
-        "ISO3": "COM",
+        "name": "Comoros",
+        "code": "KM",
+        "code3": "COM",
         "Top Level Domain": "km",
         "FIPS": "CN",
         "ISO Numeric": 174,
@@ -1296,9 +1296,9 @@
         "japaneseShortName": "コモロ"
     },
     "CK": {
-        "Country Name": "Cook Islands",
-        "ISO2": "CK",
-        "ISO3": "COK",
+        "name": "Cook Islands",
+        "code": "CK",
+        "code3": "COK",
         "Top Level Domain": "ck",
         "FIPS": "CW",
         "ISO Numeric": 184,
@@ -1323,9 +1323,9 @@
         "japaneseShortName": "クック諸島"
     },
     "CR": {
-        "Country Name": "Costa Rica",
-        "ISO2": "CR",
-        "ISO3": "CRI",
+        "name": "Costa Rica",
+        "code": "CR",
+        "code3": "CRI",
         "Top Level Domain": "cr",
         "FIPS": "CS",
         "ISO Numeric": 188,
@@ -1350,9 +1350,9 @@
         "japaneseShortName": "コスタリカ"
     },
     "HR": {
-        "Country Name": "Croatia",
-        "ISO2": "HR",
-        "ISO3": "HRV",
+        "name": "Croatia",
+        "code": "HR",
+        "code3": "HRV",
         "Top Level Domain": "hr",
         "FIPS": "HR",
         "ISO Numeric": 191,
@@ -1377,9 +1377,9 @@
         "japaneseShortName": "クロアチア"
     },
     "CU": {
-        "Country Name": "Cuba",
-        "ISO2": "CU",
-        "ISO3": "CUB",
+        "name": "Cuba",
+        "code": "CU",
+        "code3": "CUB",
         "Top Level Domain": "cu",
         "FIPS": "CU",
         "ISO Numeric": 192,
@@ -1404,9 +1404,9 @@
         "japaneseShortName": "キューバ"
     },
     "CW": {
-        "Country Name": "Curacao",
-        "ISO2": "CW",
-        "ISO3": "CUW",
+        "name": "Curacao",
+        "code": "CW",
+        "code3": "CUW",
         "Top Level Domain": "cw",
         "FIPS": "UC",
         "ISO Numeric": 531,
@@ -1430,9 +1430,9 @@
         "numeric": 531
     },
     "CY": {
-        "Country Name": "Cyprus",
-        "ISO2": "CY",
-        "ISO3": "CYP",
+        "name": "Cyprus",
+        "code": "CY",
+        "code3": "CYP",
         "Top Level Domain": "cy",
         "FIPS": "CY",
         "ISO Numeric": 196,
@@ -1457,9 +1457,9 @@
         "japaneseShortName": "キプロス"
     },
     "CZ": {
-        "Country Name": "Czech Republic",
-        "ISO2": "CZ",
-        "ISO3": "CZE",
+        "name": "Czech Republic",
+        "code": "CZ",
+        "code3": "CZE",
         "Top Level Domain": "cz",
         "FIPS": "EZ",
         "ISO Numeric": 203,
@@ -1484,9 +1484,9 @@
         "japaneseShortName": "チェコ共和国"
     },
     "CD": {
-        "Country Name": "Democratic Republic of the Congo",
-        "ISO2": "CD",
-        "ISO3": "COD",
+        "name": "Democratic Republic of the Congo",
+        "code": "CD",
+        "code3": "COD",
         "Top Level Domain": "cd",
         "FIPS": "CG",
         "ISO Numeric": 180,
@@ -1511,9 +1511,9 @@
         "japaneseShortName": "コンゴ民主共和国"
     },
     "DK": {
-        "Country Name": "Denmark",
-        "ISO2": "DK",
-        "ISO3": "DNK",
+        "name": "Denmark",
+        "code": "DK",
+        "code3": "DNK",
         "Top Level Domain": "dk",
         "FIPS": "DA",
         "ISO Numeric": 208,
@@ -1538,9 +1538,9 @@
         "japaneseShortName": "デンマーク"
     },
     "DJ": {
-        "Country Name": "Djibouti",
-        "ISO2": "DJ",
-        "ISO3": "DJI",
+        "name": "Djibouti",
+        "code": "DJ",
+        "code3": "DJI",
         "Top Level Domain": "dj",
         "FIPS": "DJ",
         "ISO Numeric": 262,
@@ -1565,9 +1565,9 @@
         "japaneseShortName": "ジブチ"
     },
     "DM": {
-        "Country Name": "Dominica",
-        "ISO2": "DM",
-        "ISO3": "DMA",
+        "name": "Dominica",
+        "code": "DM",
+        "code3": "DMA",
         "Top Level Domain": "dm",
         "FIPS": "DO",
         "ISO Numeric": 212,
@@ -1592,9 +1592,9 @@
         "japaneseShortName": "ドミニカ"
     },
     "DO": {
-        "Country Name": "Dominican Republic",
-        "ISO2": "DO",
-        "ISO3": "DOM",
+        "name": "Dominican Republic",
+        "code": "DO",
+        "code3": "DOM",
         "Top Level Domain": "do",
         "FIPS": "DR",
         "ISO Numeric": 214,
@@ -1619,9 +1619,9 @@
         "japaneseShortName": "ドミニカ共和国"
     },
     "TL": {
-        "Country Name": "East Timor",
-        "ISO2": "TL",
-        "ISO3": "TLS",
+        "name": "East Timor",
+        "code": "TL",
+        "code3": "TLS",
         "Top Level Domain": "tl",
         "FIPS": "TT",
         "ISO Numeric": 626,
@@ -1646,9 +1646,9 @@
         "japaneseShortName": "東ティモール"
     },
     "EC": {
-        "Country Name": "Ecuador",
-        "ISO2": "EC",
-        "ISO3": "ECU",
+        "name": "Ecuador",
+        "code": "EC",
+        "code3": "ECU",
         "Top Level Domain": "ec",
         "FIPS": "EC",
         "ISO Numeric": 218,
@@ -1673,9 +1673,9 @@
         "japaneseShortName": "エクアドル"
     },
     "EG": {
-        "Country Name": "Egypt",
-        "ISO2": "EG",
-        "ISO3": "EGY",
+        "name": "Egypt",
+        "code": "EG",
+        "code3": "EGY",
         "Top Level Domain": "eg",
         "FIPS": "EG",
         "ISO Numeric": 818,
@@ -1700,9 +1700,9 @@
         "japaneseShortName": "エジプト"
     },
     "SV": {
-        "Country Name": "El Salvador",
-        "ISO2": "SV",
-        "ISO3": "SLV",
+        "name": "El Salvador",
+        "code": "SV",
+        "code3": "SLV",
         "Top Level Domain": "sv",
         "FIPS": "ES",
         "ISO Numeric": 222,
@@ -1727,9 +1727,9 @@
         "japaneseShortName": "エルサルバドル"
     },
     "GQ": {
-        "Country Name": "Equatorial Guinea",
-        "ISO2": "GQ",
-        "ISO3": "GNQ",
+        "name": "Equatorial Guinea",
+        "code": "GQ",
+        "code3": "GNQ",
         "Top Level Domain": "gq",
         "FIPS": "EK",
         "ISO Numeric": 226,
@@ -1754,9 +1754,9 @@
         "japaneseShortName": "赤道ギニア"
     },
     "ER": {
-        "Country Name": "Eritrea",
-        "ISO2": "ER",
-        "ISO3": "ERI",
+        "name": "Eritrea",
+        "code": "ER",
+        "code3": "ERI",
         "Top Level Domain": "er",
         "FIPS": "ER",
         "ISO Numeric": 232,
@@ -1781,9 +1781,9 @@
         "japaneseShortName": "エリトリア"
     },
     "EE": {
-        "Country Name": "Estonia",
-        "ISO2": "EE",
-        "ISO3": "EST",
+        "name": "Estonia",
+        "code": "EE",
+        "code3": "EST",
         "Top Level Domain": "ee",
         "FIPS": "EN",
         "ISO Numeric": 233,
@@ -1808,9 +1808,9 @@
         "japaneseShortName": "エストニア"
     },
     "ET": {
-        "Country Name": "Ethiopia",
-        "ISO2": "ET",
-        "ISO3": "ETH",
+        "name": "Ethiopia",
+        "code": "ET",
+        "code3": "ETH",
         "Top Level Domain": "et",
         "FIPS": "ET",
         "ISO Numeric": 231,
@@ -1835,9 +1835,9 @@
         "japaneseShortName": "エチオピア"
     },
     "FK": {
-        "Country Name": "Falkland Islands",
-        "ISO2": "FK",
-        "ISO3": "FLK",
+        "name": "Falkland Islands",
+        "code": "FK",
+        "code3": "FLK",
         "Top Level Domain": "fk",
         "FIPS": "FK",
         "ISO Numeric": 238,
@@ -1862,9 +1862,9 @@
         "japaneseShortName": "フォークランド諸島（マルビナス）"
     },
     "FO": {
-        "Country Name": "Faroe Islands",
-        "ISO2": "FO",
-        "ISO3": "FRO",
+        "name": "Faroe Islands",
+        "code": "FO",
+        "code3": "FRO",
         "Top Level Domain": "fo",
         "FIPS": "FO",
         "ISO Numeric": 234,
@@ -1889,9 +1889,9 @@
         "japaneseShortName": "フェロー諸島"
     },
     "FJ": {
-        "Country Name": "Fiji",
-        "ISO2": "FJ",
-        "ISO3": "FJI",
+        "name": "Fiji",
+        "code": "FJ",
+        "code3": "FJI",
         "Top Level Domain": "fj",
         "FIPS": "FJ",
         "ISO Numeric": 242,
@@ -1916,9 +1916,9 @@
         "japaneseShortName": "フィジー"
     },
     "FI": {
-        "Country Name": "Finland",
-        "ISO2": "FI",
-        "ISO3": "FIN",
+        "name": "Finland",
+        "code": "FI",
+        "code3": "FIN",
         "Top Level Domain": "fi",
         "FIPS": "FI",
         "ISO Numeric": 246,
@@ -1943,9 +1943,9 @@
         "japaneseShortName": "フィンランド"
     },
     "FR": {
-        "Country Name": "France",
-        "ISO2": "FR",
-        "ISO3": "FRA",
+        "name": "France",
+        "code": "FR",
+        "code3": "FRA",
         "Top Level Domain": "fr",
         "FIPS": "FR",
         "ISO Numeric": 250,
@@ -1970,9 +1970,9 @@
         "japaneseShortName": "フランス"
     },
     "PF": {
-        "Country Name": "French Polynesia",
-        "ISO2": "PF",
-        "ISO3": "PYF",
+        "name": "French Polynesia",
+        "code": "PF",
+        "code3": "PYF",
         "Top Level Domain": "pf",
         "FIPS": "FP",
         "ISO Numeric": 258,
@@ -1997,9 +1997,9 @@
         "japaneseShortName": "フランス領ポリネシア"
     },
     "GA": {
-        "Country Name": "Gabon",
-        "ISO2": "GA",
-        "ISO3": "GAB",
+        "name": "Gabon",
+        "code": "GA",
+        "code3": "GAB",
         "Top Level Domain": "ga",
         "FIPS": "GB",
         "ISO Numeric": 266,
@@ -2024,9 +2024,9 @@
         "japaneseShortName": "ガボン"
     },
     "GM": {
-        "Country Name": "Gambia",
-        "ISO2": "GM",
-        "ISO3": "GMB",
+        "name": "Gambia",
+        "code": "GM",
+        "code3": "GMB",
         "Top Level Domain": "gm",
         "FIPS": "GA",
         "ISO Numeric": 270,
@@ -2051,9 +2051,9 @@
         "japaneseShortName": "ガンビア"
     },
     "GE": {
-        "Country Name": "Georgia",
-        "ISO2": "GE",
-        "ISO3": "GEO",
+        "name": "Georgia",
+        "code": "GE",
+        "code3": "GEO",
         "Top Level Domain": "ge",
         "FIPS": "GG",
         "ISO Numeric": 268,
@@ -2078,9 +2078,9 @@
         "japaneseShortName": "ジョージア"
     },
     "DE": {
-        "Country Name": "Germany",
-        "ISO2": "DE",
-        "ISO3": "DEU",
+        "name": "Germany",
+        "code": "DE",
+        "code3": "DEU",
         "Top Level Domain": "de",
         "FIPS": "GM",
         "ISO Numeric": 276,
@@ -2105,9 +2105,9 @@
         "japaneseShortName": "ドイツ"
     },
     "GH": {
-        "Country Name": "Ghana",
-        "ISO2": "GH",
-        "ISO3": "GHA",
+        "name": "Ghana",
+        "code": "GH",
+        "code3": "GHA",
         "Top Level Domain": "gh",
         "FIPS": "GH",
         "ISO Numeric": 288,
@@ -2132,9 +2132,9 @@
         "japaneseShortName": "ガーナ"
     },
     "GI": {
-        "Country Name": "Gibraltar",
-        "ISO2": "GI",
-        "ISO3": "GIB",
+        "name": "Gibraltar",
+        "code": "GI",
+        "code3": "GIB",
         "Top Level Domain": "gi",
         "FIPS": "GI",
         "ISO Numeric": 292,
@@ -2159,9 +2159,9 @@
         "japaneseShortName": "ジブラルタル"
     },
     "GR": {
-        "Country Name": "Greece",
-        "ISO2": "GR",
-        "ISO3": "GRC",
+        "name": "Greece",
+        "code": "GR",
+        "code3": "GRC",
         "Top Level Domain": "gr",
         "FIPS": "GR",
         "ISO Numeric": 300,
@@ -2186,9 +2186,9 @@
         "japaneseShortName": "ギリシャ"
     },
     "GL": {
-        "Country Name": "Greenland",
-        "ISO2": "GL",
-        "ISO3": "GRL",
+        "name": "Greenland",
+        "code": "GL",
+        "code3": "GRL",
         "Top Level Domain": "gl",
         "FIPS": "GL",
         "ISO Numeric": 304,
@@ -2213,9 +2213,9 @@
         "japaneseShortName": "グリーンランド"
     },
     "GD": {
-        "Country Name": "Grenada",
-        "ISO2": "GD",
-        "ISO3": "GRD",
+        "name": "Grenada",
+        "code": "GD",
+        "code3": "GRD",
         "Top Level Domain": "gd",
         "FIPS": "GJ",
         "ISO Numeric": 308,
@@ -2240,9 +2240,9 @@
         "japaneseShortName": "グレナダ"
     },
     "GU": {
-        "Country Name": "Guam",
-        "ISO2": "GU",
-        "ISO3": "GUM",
+        "name": "Guam",
+        "code": "GU",
+        "code3": "GUM",
         "Top Level Domain": "gu",
         "FIPS": "GQ",
         "ISO Numeric": 316,
@@ -2267,9 +2267,9 @@
         "japaneseShortName": "グアム島"
     },
     "GT": {
-        "Country Name": "Guatemala",
-        "ISO2": "GT",
-        "ISO3": "GTM",
+        "name": "Guatemala",
+        "code": "GT",
+        "code3": "GTM",
         "Top Level Domain": "gt",
         "FIPS": "GT",
         "ISO Numeric": 320,
@@ -2294,9 +2294,9 @@
         "japaneseShortName": "グアテマラ"
     },
     "GG": {
-        "Country Name": "Guernsey",
-        "ISO2": "GG",
-        "ISO3": "GGY",
+        "name": "Guernsey",
+        "code": "GG",
+        "code3": "GGY",
         "Top Level Domain": "gg",
         "FIPS": "GK",
         "ISO Numeric": 831,
@@ -2321,9 +2321,9 @@
         "japaneseShortName": "ガーンジー"
     },
     "GN": {
-        "Country Name": "Guinea",
-        "ISO2": "GN",
-        "ISO3": "GIN",
+        "name": "Guinea",
+        "code": "GN",
+        "code3": "GIN",
         "Top Level Domain": "gn",
         "FIPS": "GV",
         "ISO Numeric": 324,
@@ -2348,9 +2348,9 @@
         "japaneseShortName": "ギニア"
     },
     "GW": {
-        "Country Name": "Guinea-Bissau",
-        "ISO2": "GW",
-        "ISO3": "GNB",
+        "name": "Guinea-Bissau",
+        "code": "GW",
+        "code3": "GNB",
         "Top Level Domain": "gw",
         "FIPS": "PU",
         "ISO Numeric": 624,
@@ -2375,9 +2375,9 @@
         "japaneseShortName": "ギニアビサウ"
     },
     "GY": {
-        "Country Name": "Guyana",
-        "ISO2": "GY",
-        "ISO3": "GUY",
+        "name": "Guyana",
+        "code": "GY",
+        "code3": "GUY",
         "Top Level Domain": "gy",
         "FIPS": "GY",
         "ISO Numeric": 328,
@@ -2402,9 +2402,9 @@
         "japaneseShortName": "ガイアナ"
     },
     "HT": {
-        "Country Name": "Haiti",
-        "ISO2": "HT",
-        "ISO3": "HTI",
+        "name": "Haiti",
+        "code": "HT",
+        "code3": "HTI",
         "Top Level Domain": "ht",
         "FIPS": "HA",
         "ISO Numeric": 332,
@@ -2429,9 +2429,9 @@
         "japaneseShortName": "ハイチ"
     },
     "HN": {
-        "Country Name": "Honduras",
-        "ISO2": "HN",
-        "ISO3": "HND",
+        "name": "Honduras",
+        "code": "HN",
+        "code3": "HND",
         "Top Level Domain": "hn",
         "FIPS": "HO",
         "ISO Numeric": 340,
@@ -2456,9 +2456,9 @@
         "japaneseShortName": "ホンジュラス"
     },
     "HK": {
-        "Country Name": "Hong Kong",
-        "ISO2": "HK",
-        "ISO3": "HKG",
+        "name": "Hong Kong",
+        "code": "HK",
+        "code3": "HKG",
         "Top Level Domain": "hk",
         "FIPS": "HK",
         "ISO Numeric": 344,
@@ -2483,9 +2483,9 @@
         "japaneseShortName": "香港"
     },
     "HU": {
-        "Country Name": "Hungary",
-        "ISO2": "HU",
-        "ISO3": "HUN",
+        "name": "Hungary",
+        "code": "HU",
+        "code3": "HUN",
         "Top Level Domain": "hu",
         "FIPS": "HU",
         "ISO Numeric": 348,
@@ -2510,9 +2510,9 @@
         "japaneseShortName": "ハンガリー"
     },
     "IS": {
-        "Country Name": "Iceland",
-        "ISO2": "IS",
-        "ISO3": "ISL",
+        "name": "Iceland",
+        "code": "IS",
+        "code3": "ISL",
         "Top Level Domain": "is",
         "FIPS": "IC",
         "ISO Numeric": 352,
@@ -2537,9 +2537,9 @@
         "japaneseShortName": "アイスランド"
     },
     "IN": {
-        "Country Name": "India",
-        "ISO2": "IN",
-        "ISO3": "IND",
+        "name": "India",
+        "code": "IN",
+        "code3": "IND",
         "Top Level Domain": "in",
         "FIPS": "IN",
         "ISO Numeric": 356,
@@ -2564,9 +2564,9 @@
         "japaneseShortName": "インド"
     },
     "ID": {
-        "Country Name": "Indonesia",
-        "ISO2": "ID",
-        "ISO3": "IDN",
+        "name": "Indonesia",
+        "code": "ID",
+        "code3": "IDN",
         "Top Level Domain": "id",
         "FIPS": "ID",
         "ISO Numeric": 360,
@@ -2591,9 +2591,9 @@
         "japaneseShortName": "インドネシア"
     },
     "IR": {
-        "Country Name": "Iran",
-        "ISO2": "IR",
-        "ISO3": "IRN",
+        "name": "Iran",
+        "code": "IR",
+        "code3": "IRN",
         "Top Level Domain": "ir",
         "FIPS": "IR",
         "ISO Numeric": 364,
@@ -2618,9 +2618,9 @@
         "japaneseShortName": "イラン"
     },
     "IQ": {
-        "Country Name": "Iraq",
-        "ISO2": "IQ",
-        "ISO3": "IRQ",
+        "name": "Iraq",
+        "code": "IQ",
+        "code3": "IRQ",
         "Top Level Domain": "iq",
         "FIPS": "IZ",
         "ISO Numeric": 368,
@@ -2645,9 +2645,9 @@
         "japaneseShortName": "イラク"
     },
     "IE": {
-        "Country Name": "Ireland",
-        "ISO2": "IE",
-        "ISO3": "IRL",
+        "name": "Ireland",
+        "code": "IE",
+        "code3": "IRL",
         "Top Level Domain": "ie",
         "FIPS": "EI",
         "ISO Numeric": 372,
@@ -2672,9 +2672,9 @@
         "japaneseShortName": "アイルランド"
     },
     "IM": {
-        "Country Name": "Isle of Man",
-        "ISO2": "IM",
-        "ISO3": "IMN",
+        "name": "Isle of Man",
+        "code": "IM",
+        "code3": "IMN",
         "Top Level Domain": "im",
         "FIPS": "IM",
         "ISO Numeric": 833,
@@ -2699,9 +2699,9 @@
         "japaneseShortName": "マン島"
     },
     "IL": {
-        "Country Name": "Israel",
-        "ISO2": "IL",
-        "ISO3": "ISR",
+        "name": "Israel",
+        "code": "IL",
+        "code3": "ISR",
         "Top Level Domain": "il",
         "FIPS": "IS",
         "ISO Numeric": 376,
@@ -2726,9 +2726,9 @@
         "japaneseShortName": "イスラエル"
     },
     "IT": {
-        "Country Name": "Italy",
-        "ISO2": "IT",
-        "ISO3": "ITA",
+        "name": "Italy",
+        "code": "IT",
+        "code3": "ITA",
         "Top Level Domain": "it",
         "FIPS": "IT",
         "ISO Numeric": 380,
@@ -2753,9 +2753,9 @@
         "japaneseShortName": "イタリア"
     },
     "CI": {
-        "Country Name": "Ivory Coast",
-        "ISO2": "CI",
-        "ISO3": "CIV",
+        "name": "Ivory Coast",
+        "code": "CI",
+        "code3": "CIV",
         "Top Level Domain": "ci",
         "FIPS": "IV",
         "ISO Numeric": 384,
@@ -2780,9 +2780,9 @@
         "japaneseShortName": "コートジボワール"
     },
     "JM": {
-        "Country Name": "Jamaica",
-        "ISO2": "JM",
-        "ISO3": "JAM",
+        "name": "Jamaica",
+        "code": "JM",
+        "code3": "JAM",
         "Top Level Domain": "jm",
         "FIPS": "JM",
         "ISO Numeric": 388,
@@ -2807,9 +2807,9 @@
         "japaneseShortName": "ジャマイカ"
     },
     "JP": {
-        "Country Name": "Japan",
-        "ISO2": "JP",
-        "ISO3": "JPN",
+        "name": "Japan",
+        "code": "JP",
+        "code3": "JPN",
         "Top Level Domain": "jp",
         "FIPS": "JA",
         "ISO Numeric": 392,
@@ -2834,9 +2834,9 @@
         "japaneseShortName": "日本"
     },
     "JE": {
-        "Country Name": "Jersey",
-        "ISO2": "JE",
-        "ISO3": "JEY",
+        "name": "Jersey",
+        "code": "JE",
+        "code3": "JEY",
         "Top Level Domain": "je",
         "FIPS": "JE",
         "ISO Numeric": 832,
@@ -2861,9 +2861,9 @@
         "japaneseShortName": "ジャージー"
     },
     "JO": {
-        "Country Name": "Jordan",
-        "ISO2": "JO",
-        "ISO3": "JOR",
+        "name": "Jordan",
+        "code": "JO",
+        "code3": "JOR",
         "Top Level Domain": "jo",
         "FIPS": "JO",
         "ISO Numeric": 400,
@@ -2888,9 +2888,9 @@
         "japaneseShortName": "ヨルダン"
     },
     "KZ": {
-        "Country Name": "Kazakhstan",
-        "ISO2": "KZ",
-        "ISO3": "KAZ",
+        "name": "Kazakhstan",
+        "code": "KZ",
+        "code3": "KAZ",
         "Top Level Domain": "kz",
         "FIPS": "KZ",
         "ISO Numeric": 398,
@@ -2915,9 +2915,9 @@
         "japaneseShortName": "カザフスタン"
     },
     "KE": {
-        "Country Name": "Kenya",
-        "ISO2": "KE",
-        "ISO3": "KEN",
+        "name": "Kenya",
+        "code": "KE",
+        "code3": "KEN",
         "Top Level Domain": "ke",
         "FIPS": "KE",
         "ISO Numeric": 404,
@@ -2942,9 +2942,9 @@
         "japaneseShortName": "ケニア"
     },
     "KI": {
-        "Country Name": "Kiribati",
-        "ISO2": "KI",
-        "ISO3": "KIR",
+        "name": "Kiribati",
+        "code": "KI",
+        "code3": "KIR",
         "Top Level Domain": "ki",
         "FIPS": "KR",
         "ISO Numeric": 296,
@@ -2969,9 +2969,9 @@
         "japaneseShortName": "キリバス"
     },
     "XK": {
-        "Country Name": "Kosovo",
-        "ISO2": "XK",
-        "ISO3": "XKX",
+        "name": "Kosovo",
+        "code": "XK",
+        "code3": "XKX",
         "Top Level Domain": "",
         "FIPS": "KV",
         "ISO Numeric": 0,
@@ -2992,9 +2992,9 @@
         "GDP": 7150000000
     },
     "KW": {
-        "Country Name": "Kuwait",
-        "ISO2": "KW",
-        "ISO3": "KWT",
+        "name": "Kuwait",
+        "code": "KW",
+        "code3": "KWT",
         "Top Level Domain": "kw",
         "FIPS": "KU",
         "ISO Numeric": 414,
@@ -3019,9 +3019,9 @@
         "japaneseShortName": "クウェート"
     },
     "KG": {
-        "Country Name": "Kyrgyzstan",
-        "ISO2": "KG",
-        "ISO3": "KGZ",
+        "name": "Kyrgyzstan",
+        "code": "KG",
+        "code3": "KGZ",
         "Top Level Domain": "kg",
         "FIPS": "KG",
         "ISO Numeric": 417,
@@ -3046,9 +3046,9 @@
         "japaneseShortName": "キルギス"
     },
     "LA": {
-        "Country Name": "Laos",
-        "ISO2": "LA",
-        "ISO3": "LAO",
+        "name": "Laos",
+        "code": "LA",
+        "code3": "LAO",
         "Top Level Domain": "la",
         "FIPS": "LA",
         "ISO Numeric": 418,
@@ -3073,9 +3073,9 @@
         "japaneseShortName": "ラオス"
     },
     "LV": {
-        "Country Name": "Latvia",
-        "ISO2": "LV",
-        "ISO3": "LVA",
+        "name": "Latvia",
+        "code": "LV",
+        "code3": "LVA",
         "Top Level Domain": "lv",
         "FIPS": "LG",
         "ISO Numeric": 428,
@@ -3100,9 +3100,9 @@
         "japaneseShortName": "ラトビア"
     },
     "LB": {
-        "Country Name": "Lebanon",
-        "ISO2": "LB",
-        "ISO3": "LBN",
+        "name": "Lebanon",
+        "code": "LB",
+        "code3": "LBN",
         "Top Level Domain": "lb",
         "FIPS": "LE",
         "ISO Numeric": 422,
@@ -3127,9 +3127,9 @@
         "japaneseShortName": "レバノン"
     },
     "LS": {
-        "Country Name": "Lesotho",
-        "ISO2": "LS",
-        "ISO3": "LSO",
+        "name": "Lesotho",
+        "code": "LS",
+        "code3": "LSO",
         "Top Level Domain": "ls",
         "FIPS": "LT",
         "ISO Numeric": 426,
@@ -3154,9 +3154,9 @@
         "japaneseShortName": "レソト"
     },
     "LR": {
-        "Country Name": "Liberia",
-        "ISO2": "LR",
-        "ISO3": "LBR",
+        "name": "Liberia",
+        "code": "LR",
+        "code3": "LBR",
         "Top Level Domain": "lr",
         "FIPS": "LI",
         "ISO Numeric": 430,
@@ -3181,9 +3181,9 @@
         "japaneseShortName": "リベリア"
     },
     "LY": {
-        "Country Name": "Libya",
-        "ISO2": "LY",
-        "ISO3": "LBY",
+        "name": "Libya",
+        "code": "LY",
+        "code3": "LBY",
         "Top Level Domain": "ly",
         "FIPS": "LY",
         "ISO Numeric": 434,
@@ -3208,9 +3208,9 @@
         "japaneseShortName": "リビア国"
     },
     "LI": {
-        "Country Name": "Liechtenstein",
-        "ISO2": "LI",
-        "ISO3": "LIE",
+        "name": "Liechtenstein",
+        "code": "LI",
+        "code3": "LIE",
         "Top Level Domain": "li",
         "FIPS": "LS",
         "ISO Numeric": 438,
@@ -3235,9 +3235,9 @@
         "japaneseShortName": "リヒテンシュタイン"
     },
     "LT": {
-        "Country Name": "Lithuania",
-        "ISO2": "LT",
-        "ISO3": "LTU",
+        "name": "Lithuania",
+        "code": "LT",
+        "code3": "LTU",
         "Top Level Domain": "lt",
         "FIPS": "LH",
         "ISO Numeric": 440,
@@ -3262,9 +3262,9 @@
         "japaneseShortName": "リトアニア"
     },
     "LU": {
-        "Country Name": "Luxembourg",
-        "ISO2": "LU",
-        "ISO3": "LUX",
+        "name": "Luxembourg",
+        "code": "LU",
+        "code3": "LUX",
         "Top Level Domain": "lu",
         "FIPS": "LU",
         "ISO Numeric": 442,
@@ -3289,9 +3289,9 @@
         "japaneseShortName": "ルクセンブルク"
     },
     "MO": {
-        "Country Name": "Macau",
-        "ISO2": "MO",
-        "ISO3": "MAC",
+        "name": "Macau",
+        "code": "MO",
+        "code3": "MAC",
         "Top Level Domain": "mo",
         "FIPS": "MC",
         "ISO Numeric": 446,
@@ -3316,9 +3316,9 @@
         "japaneseShortName": "マカオ"
     },
     "MK": {
-        "Country Name": "Macedonia",
-        "ISO2": "MK",
-        "ISO3": "MKD",
+        "name": "Macedonia",
+        "code": "MK",
+        "code3": "MKD",
         "Top Level Domain": "mk",
         "FIPS": "MK",
         "ISO Numeric": 807,
@@ -3343,9 +3343,9 @@
         "japaneseShortName": "マケドニア"
     },
     "MG": {
-        "Country Name": "Madagascar",
-        "ISO2": "MG",
-        "ISO3": "MDG",
+        "name": "Madagascar",
+        "code": "MG",
+        "code3": "MDG",
         "Top Level Domain": "mg",
         "FIPS": "MA",
         "ISO Numeric": 450,
@@ -3370,9 +3370,9 @@
         "japaneseShortName": "マダガスカル"
     },
     "MW": {
-        "Country Name": "Malawi",
-        "ISO2": "MW",
-        "ISO3": "MWI",
+        "name": "Malawi",
+        "code": "MW",
+        "code3": "MWI",
         "Top Level Domain": "mw",
         "FIPS": "MI",
         "ISO Numeric": 454,
@@ -3397,9 +3397,9 @@
         "japaneseShortName": "マラウイ"
     },
     "MY": {
-        "Country Name": "Malaysia",
-        "ISO2": "MY",
-        "ISO3": "MYS",
+        "name": "Malaysia",
+        "code": "MY",
+        "code3": "MYS",
         "Top Level Domain": "my",
         "FIPS": "MY",
         "ISO Numeric": 458,
@@ -3424,9 +3424,9 @@
         "japaneseShortName": "マレーシア"
     },
     "MV": {
-        "Country Name": "Maldives",
-        "ISO2": "MV",
-        "ISO3": "MDV",
+        "name": "Maldives",
+        "code": "MV",
+        "code3": "MDV",
         "Top Level Domain": "mv",
         "FIPS": "MV",
         "ISO Numeric": 462,
@@ -3451,9 +3451,9 @@
         "japaneseShortName": "モルディブ"
     },
     "ML": {
-        "Country Name": "Mali",
-        "ISO2": "ML",
-        "ISO3": "MLI",
+        "name": "Mali",
+        "code": "ML",
+        "code3": "MLI",
         "Top Level Domain": "ml",
         "FIPS": "ML",
         "ISO Numeric": 466,
@@ -3478,9 +3478,9 @@
         "japaneseShortName": "マリ"
     },
     "MT": {
-        "Country Name": "Malta",
-        "ISO2": "MT",
-        "ISO3": "MLT",
+        "name": "Malta",
+        "code": "MT",
+        "code3": "MLT",
         "Top Level Domain": "mt",
         "FIPS": "MT",
         "ISO Numeric": 470,
@@ -3505,9 +3505,9 @@
         "japaneseShortName": "マルタ"
     },
     "MH": {
-        "Country Name": "Marshall Islands",
-        "ISO2": "MH",
-        "ISO3": "MHL",
+        "name": "Marshall Islands",
+        "code": "MH",
+        "code3": "MHL",
         "Top Level Domain": "mh",
         "FIPS": "RM",
         "ISO Numeric": 584,
@@ -3532,9 +3532,9 @@
         "japaneseShortName": "マーシャル諸島"
     },
     "MR": {
-        "Country Name": "Mauritania",
-        "ISO2": "MR",
-        "ISO3": "MRT",
+        "name": "Mauritania",
+        "code": "MR",
+        "code3": "MRT",
         "Top Level Domain": "mr",
         "FIPS": "MR",
         "ISO Numeric": 478,
@@ -3559,9 +3559,9 @@
         "japaneseShortName": "モーリタニア"
     },
     "MU": {
-        "Country Name": "Mauritius",
-        "ISO2": "MU",
-        "ISO3": "MUS",
+        "name": "Mauritius",
+        "code": "MU",
+        "code3": "MUS",
         "Top Level Domain": "mu",
         "FIPS": "MP",
         "ISO Numeric": 480,
@@ -3586,9 +3586,9 @@
         "japaneseShortName": "モーリシャス"
     },
     "YT": {
-        "Country Name": "Mayotte",
-        "ISO2": "YT",
-        "ISO3": "MYT",
+        "name": "Mayotte",
+        "code": "YT",
+        "code3": "MYT",
         "Top Level Domain": "yt",
         "FIPS": "MF",
         "ISO Numeric": 175,
@@ -3613,9 +3613,9 @@
         "japaneseShortName": "マヨット"
     },
     "MX": {
-        "Country Name": "Mexico",
-        "ISO2": "MX",
-        "ISO3": "MEX",
+        "name": "Mexico",
+        "code": "MX",
+        "code3": "MEX",
         "Top Level Domain": "mx",
         "FIPS": "MX",
         "ISO Numeric": 484,
@@ -3640,9 +3640,9 @@
         "japaneseShortName": "メキシコ"
     },
     "FM": {
-        "Country Name": "Micronesia",
-        "ISO2": "FM",
-        "ISO3": "FSM",
+        "name": "Micronesia",
+        "code": "FM",
+        "code3": "FSM",
         "Top Level Domain": "fm",
         "FIPS": "FM",
         "ISO Numeric": 583,
@@ -3667,9 +3667,9 @@
         "japaneseShortName": "ミクロネシア連邦"
     },
     "MD": {
-        "Country Name": "Moldova",
-        "ISO2": "MD",
-        "ISO3": "MDA",
+        "name": "Moldova",
+        "code": "MD",
+        "code3": "MDA",
         "Top Level Domain": "md",
         "FIPS": "MD",
         "ISO Numeric": 498,
@@ -3694,9 +3694,9 @@
         "japaneseShortName": "モルドバ共和国"
     },
     "MC": {
-        "Country Name": "Monaco",
-        "ISO2": "MC",
-        "ISO3": "MCO",
+        "name": "Monaco",
+        "code": "MC",
+        "code3": "MCO",
         "Top Level Domain": "mc",
         "FIPS": "MN",
         "ISO Numeric": 492,
@@ -3721,9 +3721,9 @@
         "japaneseShortName": "モナコ"
     },
     "MN": {
-        "Country Name": "Mongolia",
-        "ISO2": "MN",
-        "ISO3": "MNG",
+        "name": "Mongolia",
+        "code": "MN",
+        "code3": "MNG",
         "Top Level Domain": "mn",
         "FIPS": "MG",
         "ISO Numeric": 496,
@@ -3748,9 +3748,9 @@
         "japaneseShortName": "モンゴル"
     },
     "ME": {
-        "Country Name": "Montenegro",
-        "ISO2": "ME",
-        "ISO3": "MNE",
+        "name": "Montenegro",
+        "code": "ME",
+        "code3": "MNE",
         "Top Level Domain": "me",
         "FIPS": "MJ",
         "ISO Numeric": 499,
@@ -3775,9 +3775,9 @@
         "japaneseShortName": "モンテネグロ"
     },
     "MS": {
-        "Country Name": "Montserrat",
-        "ISO2": "MS",
-        "ISO3": "MSR",
+        "name": "Montserrat",
+        "code": "MS",
+        "code3": "MSR",
         "Top Level Domain": "ms",
         "FIPS": "MH",
         "ISO Numeric": 500,
@@ -3802,9 +3802,9 @@
         "japaneseShortName": "モントセラト"
     },
     "MA": {
-        "Country Name": "Morocco",
-        "ISO2": "MA",
-        "ISO3": "MAR",
+        "name": "Morocco",
+        "code": "MA",
+        "code3": "MAR",
         "Top Level Domain": "ma",
         "FIPS": "MO",
         "ISO Numeric": 504,
@@ -3829,9 +3829,9 @@
         "japaneseShortName": "モロッコ"
     },
     "MZ": {
-        "Country Name": "Mozambique",
-        "ISO2": "MZ",
-        "ISO3": "MOZ",
+        "name": "Mozambique",
+        "code": "MZ",
+        "code3": "MOZ",
         "Top Level Domain": "mz",
         "FIPS": "MZ",
         "ISO Numeric": 508,
@@ -3856,9 +3856,9 @@
         "japaneseShortName": "モザンビーク"
     },
     "MM": {
-        "Country Name": "Myanmar",
-        "ISO2": "MM",
-        "ISO3": "MMR",
+        "name": "Myanmar",
+        "code": "MM",
+        "code3": "MMR",
         "Top Level Domain": "mm",
         "FIPS": "BM",
         "ISO Numeric": 104,
@@ -3883,9 +3883,9 @@
         "japaneseShortName": "ミャンマー"
     },
     "NA": {
-        "Country Name": "Namibia",
-        "ISO2": "NA",
-        "ISO3": "NAM",
+        "name": "Namibia",
+        "code": "NA",
+        "code3": "NAM",
         "Top Level Domain": "na",
         "FIPS": "WA",
         "ISO Numeric": 516,
@@ -3910,9 +3910,9 @@
         "japaneseShortName": "ナミビア"
     },
     "NR": {
-        "Country Name": "Nauru",
-        "ISO2": "NR",
-        "ISO3": "NRU",
+        "name": "Nauru",
+        "code": "NR",
+        "code3": "NRU",
         "Top Level Domain": "nr",
         "FIPS": "NR",
         "ISO Numeric": 520,
@@ -3937,9 +3937,9 @@
         "japaneseShortName": "ナウル"
     },
     "NP": {
-        "Country Name": "Nepal",
-        "ISO2": "NP",
-        "ISO3": "NPL",
+        "name": "Nepal",
+        "code": "NP",
+        "code3": "NPL",
         "Top Level Domain": "np",
         "FIPS": "NP",
         "ISO Numeric": 524,
@@ -3964,9 +3964,9 @@
         "japaneseShortName": "ネパール"
     },
     "NL": {
-        "Country Name": "Netherlands",
-        "ISO2": "NL",
-        "ISO3": "NLD",
+        "name": "Netherlands",
+        "code": "NL",
+        "code3": "NLD",
         "Top Level Domain": "nl",
         "FIPS": "NL",
         "ISO Numeric": 528,
@@ -3991,9 +3991,9 @@
         "japaneseShortName": "オランダ王国"
     },
     "AN": {
-        "Country Name": "Netherlands Antilles",
-        "ISO2": "AN",
-        "ISO3": "ANT",
+        "name": "Netherlands Antilles",
+        "code": "AN",
+        "code3": "ANT",
         "Top Level Domain": "an",
         "FIPS": "NT",
         "ISO Numeric": 530,
@@ -4015,9 +4015,9 @@
         "japaneseShortName": "オランダ領アンティル"
     },
     "NC": {
-        "Country Name": "New Caledonia",
-        "ISO2": "NC",
-        "ISO3": "NCL",
+        "name": "New Caledonia",
+        "code": "NC",
+        "code3": "NCL",
         "Top Level Domain": "nc",
         "FIPS": "NC",
         "ISO Numeric": 540,
@@ -4042,9 +4042,9 @@
         "japaneseShortName": "ニューカレドニア"
     },
     "NZ": {
-        "Country Name": "New Zealand",
-        "ISO2": "NZ",
-        "ISO3": "NZL",
+        "name": "New Zealand",
+        "code": "NZ",
+        "code3": "NZL",
         "Top Level Domain": "nz",
         "FIPS": "NZ",
         "ISO Numeric": 554,
@@ -4069,9 +4069,9 @@
         "japaneseShortName": "ニュージーランド"
     },
     "NI": {
-        "Country Name": "Nicaragua",
-        "ISO2": "NI",
-        "ISO3": "NIC",
+        "name": "Nicaragua",
+        "code": "NI",
+        "code3": "NIC",
         "Top Level Domain": "ni",
         "FIPS": "NU",
         "ISO Numeric": 558,
@@ -4096,9 +4096,9 @@
         "japaneseShortName": "ニカラグア"
     },
     "NE": {
-        "Country Name": "Niger",
-        "ISO2": "NE",
-        "ISO3": "NER",
+        "name": "Niger",
+        "code": "NE",
+        "code3": "NER",
         "Top Level Domain": "ne",
         "FIPS": "NG",
         "ISO Numeric": 562,
@@ -4123,9 +4123,9 @@
         "japaneseShortName": "ニジェール"
     },
     "NG": {
-        "Country Name": "Nigeria",
-        "ISO2": "NG",
-        "ISO3": "NGA",
+        "name": "Nigeria",
+        "code": "NG",
+        "code3": "NGA",
         "Top Level Domain": "ng",
         "FIPS": "NI",
         "ISO Numeric": 566,
@@ -4150,9 +4150,9 @@
         "japaneseShortName": "ナイジェリア"
     },
     "NU": {
-        "Country Name": "Niue",
-        "ISO2": "NU",
-        "ISO3": "NIU",
+        "name": "Niue",
+        "code": "NU",
+        "code3": "NIU",
         "Top Level Domain": "nu",
         "FIPS": "NE",
         "ISO Numeric": 570,
@@ -4177,9 +4177,9 @@
         "japaneseShortName": "ニウエ"
     },
     "KP": {
-        "Country Name": "North Korea",
-        "ISO2": "KP",
-        "ISO3": "PRK",
+        "name": "North Korea",
+        "code": "KP",
+        "code3": "PRK",
         "Top Level Domain": "kp",
         "FIPS": "KN",
         "ISO Numeric": 408,
@@ -4204,9 +4204,9 @@
         "japaneseShortName": "北朝鮮"
     },
     "MP": {
-        "Country Name": "Northern Mariana Islands",
-        "ISO2": "MP",
-        "ISO3": "MNP",
+        "name": "Northern Mariana Islands",
+        "code": "MP",
+        "code3": "MNP",
         "Top Level Domain": "mp",
         "FIPS": "CQ",
         "ISO Numeric": 580,
@@ -4231,9 +4231,9 @@
         "japaneseShortName": "北マリアナ諸島"
     },
     "NO": {
-        "Country Name": "Norway",
-        "ISO2": "NO",
-        "ISO3": "NOR",
+        "name": "Norway",
+        "code": "NO",
+        "code3": "NOR",
         "Top Level Domain": "no",
         "FIPS": "NO",
         "ISO Numeric": 578,
@@ -4258,9 +4258,9 @@
         "japaneseShortName": "ノルウェー"
     },
     "OM": {
-        "Country Name": "Oman",
-        "ISO2": "OM",
-        "ISO3": "OMN",
+        "name": "Oman",
+        "code": "OM",
+        "code3": "OMN",
         "Top Level Domain": "om",
         "FIPS": "MU",
         "ISO Numeric": 512,
@@ -4285,9 +4285,9 @@
         "japaneseShortName": "オマーン"
     },
     "PK": {
-        "Country Name": "Pakistan",
-        "ISO2": "PK",
-        "ISO3": "PAK",
+        "name": "Pakistan",
+        "code": "PK",
+        "code3": "PAK",
         "Top Level Domain": "pk",
         "FIPS": "PK",
         "ISO Numeric": 586,
@@ -4312,9 +4312,9 @@
         "japaneseShortName": "パキスタン"
     },
     "PW": {
-        "Country Name": "Palau",
-        "ISO2": "PW",
-        "ISO3": "PLW",
+        "name": "Palau",
+        "code": "PW",
+        "code3": "PLW",
         "Top Level Domain": "pw",
         "FIPS": "PS",
         "ISO Numeric": 585,
@@ -4339,9 +4339,9 @@
         "japaneseShortName": "パラオ"
     },
     "PS": {
-        "Country Name": "Palestine",
-        "ISO2": "PS",
-        "ISO3": "PSE",
+        "name": "Palestine",
+        "code": "PS",
+        "code3": "PSE",
         "Top Level Domain": "ps",
         "FIPS": "WE",
         "ISO Numeric": 275,
@@ -4366,9 +4366,9 @@
         "japaneseShortName": "パレスチナ国"
     },
     "PA": {
-        "Country Name": "Panama",
-        "ISO2": "PA",
-        "ISO3": "PAN",
+        "name": "Panama",
+        "code": "PA",
+        "code3": "PAN",
         "Top Level Domain": "pa",
         "FIPS": "PM",
         "ISO Numeric": 591,
@@ -4393,9 +4393,9 @@
         "japaneseShortName": "パナマ"
     },
     "PG": {
-        "Country Name": "Papua New Guinea",
-        "ISO2": "PG",
-        "ISO3": "PNG",
+        "name": "Papua New Guinea",
+        "code": "PG",
+        "code3": "PNG",
         "Top Level Domain": "pg",
         "FIPS": "PP",
         "ISO Numeric": 598,
@@ -4420,9 +4420,9 @@
         "japaneseShortName": "パプアニューギニア"
     },
     "PY": {
-        "Country Name": "Paraguay",
-        "ISO2": "PY",
-        "ISO3": "PRY",
+        "name": "Paraguay",
+        "code": "PY",
+        "code3": "PRY",
         "Top Level Domain": "py",
         "FIPS": "PA",
         "ISO Numeric": 600,
@@ -4447,9 +4447,9 @@
         "japaneseShortName": "パラグアイ"
     },
     "PE": {
-        "Country Name": "Peru",
-        "ISO2": "PE",
-        "ISO3": "PER",
+        "name": "Peru",
+        "code": "PE",
+        "code3": "PER",
         "Top Level Domain": "pe",
         "FIPS": "PE",
         "ISO Numeric": 604,
@@ -4474,9 +4474,9 @@
         "japaneseShortName": "ペルー"
     },
     "PH": {
-        "Country Name": "Philippines",
-        "ISO2": "PH",
-        "ISO3": "PHL",
+        "name": "Philippines",
+        "code": "PH",
+        "code3": "PHL",
         "Top Level Domain": "ph",
         "FIPS": "RP",
         "ISO Numeric": 608,
@@ -4501,9 +4501,9 @@
         "japaneseShortName": "フィリピン"
     },
     "PN": {
-        "Country Name": "Pitcairn",
-        "ISO2": "PN",
-        "ISO3": "PCN",
+        "name": "Pitcairn",
+        "code": "PN",
+        "code3": "PCN",
         "Top Level Domain": "pn",
         "FIPS": "PC",
         "ISO Numeric": 612,
@@ -4528,9 +4528,9 @@
         "japaneseShortName": "ピトケアン"
     },
     "PL": {
-        "Country Name": "Poland",
-        "ISO2": "PL",
-        "ISO3": "POL",
+        "name": "Poland",
+        "code": "PL",
+        "code3": "POL",
         "Top Level Domain": "pl",
         "FIPS": "PL",
         "ISO Numeric": 616,
@@ -4555,9 +4555,9 @@
         "japaneseShortName": "ポーランド"
     },
     "PT": {
-        "Country Name": "Portugal",
-        "ISO2": "PT",
-        "ISO3": "PRT",
+        "name": "Portugal",
+        "code": "PT",
+        "code3": "PRT",
         "Top Level Domain": "pt",
         "FIPS": "PO",
         "ISO Numeric": 620,
@@ -4582,9 +4582,9 @@
         "japaneseShortName": "ポルトガル"
     },
     "PR": {
-        "Country Name": "Puerto Rico",
-        "ISO2": "PR",
-        "ISO3": "PRI",
+        "name": "Puerto Rico",
+        "code": "PR",
+        "code3": "PRI",
         "Top Level Domain": "pr",
         "FIPS": "RQ",
         "ISO Numeric": 630,
@@ -4609,9 +4609,9 @@
         "japaneseShortName": "プエルトリコ"
     },
     "QA": {
-        "Country Name": "Qatar",
-        "ISO2": "QA",
-        "ISO3": "QAT",
+        "name": "Qatar",
+        "code": "QA",
+        "code3": "QAT",
         "Top Level Domain": "qa",
         "FIPS": "QA",
         "ISO Numeric": 634,
@@ -4636,9 +4636,9 @@
         "japaneseShortName": "カタール"
     },
     "CG": {
-        "Country Name": "Republic of the Congo",
-        "ISO2": "CG",
-        "ISO3": "COG",
+        "name": "Republic of the Congo",
+        "code": "CG",
+        "code3": "COG",
         "Top Level Domain": "cg",
         "FIPS": "CF",
         "ISO Numeric": 178,
@@ -4663,9 +4663,9 @@
         "japaneseShortName": "コンゴ"
     },
     "RE": {
-        "Country Name": "Reunion",
-        "ISO2": "RE",
-        "ISO3": "REU",
+        "name": "Reunion",
+        "code": "RE",
+        "code3": "REU",
         "Top Level Domain": "re",
         "FIPS": "RE",
         "ISO Numeric": 638,
@@ -4690,9 +4690,9 @@
         "japaneseShortName": "レユニオン"
     },
     "RO": {
-        "Country Name": "Romania",
-        "ISO2": "RO",
-        "ISO3": "ROU",
+        "name": "Romania",
+        "code": "RO",
+        "code3": "ROU",
         "Top Level Domain": "ro",
         "FIPS": "RO",
         "ISO Numeric": 642,
@@ -4717,9 +4717,9 @@
         "japaneseShortName": "ルーマニア"
     },
     "RU": {
-        "Country Name": "Russia",
-        "ISO2": "RU",
-        "ISO3": "RUS",
+        "name": "Russia",
+        "code": "RU",
+        "code3": "RUS",
         "Top Level Domain": "ru",
         "FIPS": "RS",
         "ISO Numeric": 643,
@@ -4744,9 +4744,9 @@
         "japaneseShortName": "ロシア連邦"
     },
     "RW": {
-        "Country Name": "Rwanda",
-        "ISO2": "RW",
-        "ISO3": "RWA",
+        "name": "Rwanda",
+        "code": "RW",
+        "code3": "RWA",
         "Top Level Domain": "rw",
         "FIPS": "RW",
         "ISO Numeric": 646,
@@ -4771,9 +4771,9 @@
         "japaneseShortName": "ルワンダ"
     },
     "BL": {
-        "Country Name": "Saint Barthelemy",
-        "ISO2": "BL",
-        "ISO3": "BLM",
+        "name": "Saint Barthelemy",
+        "code": "BL",
+        "code3": "BLM",
         "Top Level Domain": "gp",
         "FIPS": "TB",
         "ISO Numeric": 652,
@@ -4798,9 +4798,9 @@
         "japaneseShortName": "サン・バルテルミー"
     },
     "SH": {
-        "Country Name": "Saint Helena",
-        "ISO2": "SH",
-        "ISO3": "SHN",
+        "name": "Saint Helena",
+        "code": "SH",
+        "code3": "SHN",
         "Top Level Domain": "sh",
         "FIPS": "SH",
         "ISO Numeric": 654,
@@ -4825,9 +4825,9 @@
         "japaneseShortName": "セントヘレナ"
     },
     "KN": {
-        "Country Name": "Saint Kitts and Nevis",
-        "ISO2": "KN",
-        "ISO3": "KNA",
+        "name": "Saint Kitts and Nevis",
+        "code": "KN",
+        "code3": "KNA",
         "Top Level Domain": "kn",
         "FIPS": "SC",
         "ISO Numeric": 659,
@@ -4852,9 +4852,9 @@
         "japaneseShortName": "セントクリストファー・ネイビス連邦"
     },
     "LC": {
-        "Country Name": "Saint Lucia",
-        "ISO2": "LC",
-        "ISO3": "LCA",
+        "name": "Saint Lucia",
+        "code": "LC",
+        "code3": "LCA",
         "Top Level Domain": "lc",
         "FIPS": "ST",
         "ISO Numeric": 662,
@@ -4879,9 +4879,9 @@
         "japaneseShortName": "セントルシア"
     },
     "MF": {
-        "Country Name": "Saint Martin",
-        "ISO2": "MF",
-        "ISO3": "MAF",
+        "name": "Saint Martin",
+        "code": "MF",
+        "code3": "MAF",
         "Top Level Domain": "gp",
         "FIPS": "RN",
         "ISO Numeric": 663,
@@ -4906,9 +4906,9 @@
         "japaneseShortName": "セント・マーチン"
     },
     "PM": {
-        "Country Name": "Saint Pierre and Miquelon",
-        "ISO2": "PM",
-        "ISO3": "SPM",
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM",
+        "code3": "SPM",
         "Top Level Domain": "pm",
         "FIPS": "SB",
         "ISO Numeric": 666,
@@ -4933,9 +4933,9 @@
         "japaneseShortName": "サンピエール島およびミクロン島"
     },
     "VC": {
-        "Country Name": "Saint Vincent and the Grenadines",
-        "ISO2": "VC",
-        "ISO3": "VCT",
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC",
+        "code3": "VCT",
         "Top Level Domain": "vc",
         "FIPS": "VC",
         "ISO Numeric": 670,
@@ -4960,9 +4960,9 @@
         "japaneseShortName": "セントビンセント及びグレナディーン諸島"
     },
     "WS": {
-        "Country Name": "Samoa",
-        "ISO2": "WS",
-        "ISO3": "WSM",
+        "name": "Samoa",
+        "code": "WS",
+        "code3": "WSM",
         "Top Level Domain": "ws",
         "FIPS": "WS",
         "ISO Numeric": 882,
@@ -4987,9 +4987,9 @@
         "japaneseShortName": "サモア"
     },
     "SM": {
-        "Country Name": "San Marino",
-        "ISO2": "SM",
-        "ISO3": "SMR",
+        "name": "San Marino",
+        "code": "SM",
+        "code3": "SMR",
         "Top Level Domain": "sm",
         "FIPS": "SM",
         "ISO Numeric": 674,
@@ -5014,9 +5014,9 @@
         "japaneseShortName": "サンマリノ"
     },
     "ST": {
-        "Country Name": "Sao Tome and Principe",
-        "ISO2": "ST",
-        "ISO3": "STP",
+        "name": "Sao Tome and Principe",
+        "code": "ST",
+        "code3": "STP",
         "Top Level Domain": "st",
         "FIPS": "TP",
         "ISO Numeric": 678,
@@ -5041,9 +5041,9 @@
         "japaneseShortName": "サントメ・プリンシペ"
     },
     "SA": {
-        "Country Name": "Saudi Arabia",
-        "ISO2": "SA",
-        "ISO3": "SAU",
+        "name": "Saudi Arabia",
+        "code": "SA",
+        "code3": "SAU",
         "Top Level Domain": "sa",
         "FIPS": "SA",
         "ISO Numeric": 682,
@@ -5068,9 +5068,9 @@
         "japaneseShortName": "サウジアラビア"
     },
     "SN": {
-        "Country Name": "Senegal",
-        "ISO2": "SN",
-        "ISO3": "SEN",
+        "name": "Senegal",
+        "code": "SN",
+        "code3": "SEN",
         "Top Level Domain": "sn",
         "FIPS": "SG",
         "ISO Numeric": 686,
@@ -5095,9 +5095,9 @@
         "japaneseShortName": "セネガル"
     },
     "RS": {
-        "Country Name": "Serbia",
-        "ISO2": "RS",
-        "ISO3": "SRB",
+        "name": "Serbia",
+        "code": "RS",
+        "code3": "SRB",
         "Top Level Domain": "rs",
         "FIPS": "RI",
         "ISO Numeric": 688,
@@ -5122,9 +5122,9 @@
         "japaneseShortName": "セルビア"
     },
     "SC": {
-        "Country Name": "Seychelles",
-        "ISO2": "SC",
-        "ISO3": "SYC",
+        "name": "Seychelles",
+        "code": "SC",
+        "code3": "SYC",
         "Top Level Domain": "sc",
         "FIPS": "SE",
         "ISO Numeric": 690,
@@ -5149,9 +5149,9 @@
         "japaneseShortName": "セーシェル"
     },
     "SL": {
-        "Country Name": "Sierra Leone",
-        "ISO2": "SL",
-        "ISO3": "SLE",
+        "name": "Sierra Leone",
+        "code": "SL",
+        "code3": "SLE",
         "Top Level Domain": "sl",
         "FIPS": "SL",
         "ISO Numeric": 694,
@@ -5176,9 +5176,9 @@
         "japaneseShortName": "シエラレオネ"
     },
     "SG": {
-        "Country Name": "Singapore",
-        "ISO2": "SG",
-        "ISO3": "SGP",
+        "name": "Singapore",
+        "code": "SG",
+        "code3": "SGP",
         "Top Level Domain": "sg",
         "FIPS": "SN",
         "ISO Numeric": 702,
@@ -5203,9 +5203,9 @@
         "japaneseShortName": "シンガポール"
     },
     "SX": {
-        "Country Name": "Sint Maarten",
-        "ISO2": "SX",
-        "ISO3": "SXM",
+        "name": "Sint Maarten",
+        "code": "SX",
+        "code3": "SXM",
         "Top Level Domain": "sx",
         "FIPS": "NN",
         "ISO Numeric": 534,
@@ -5229,9 +5229,9 @@
         "numeric": 534
     },
     "SK": {
-        "Country Name": "Slovakia",
-        "ISO2": "SK",
-        "ISO3": "SVK",
+        "name": "Slovakia",
+        "code": "SK",
+        "code3": "SVK",
         "Top Level Domain": "sk",
         "FIPS": "LO",
         "ISO Numeric": 703,
@@ -5256,9 +5256,9 @@
         "japaneseShortName": "スロバキア"
     },
     "SI": {
-        "Country Name": "Slovenia",
-        "ISO2": "SI",
-        "ISO3": "SVN",
+        "name": "Slovenia",
+        "code": "SI",
+        "code3": "SVN",
         "Top Level Domain": "si",
         "FIPS": "SI",
         "ISO Numeric": 705,
@@ -5283,9 +5283,9 @@
         "japaneseShortName": "スロベニア"
     },
     "SB": {
-        "Country Name": "Solomon Islands",
-        "ISO2": "SB",
-        "ISO3": "SLB",
+        "name": "Solomon Islands",
+        "code": "SB",
+        "code3": "SLB",
         "Top Level Domain": "sb",
         "FIPS": "BP",
         "ISO Numeric": "090",
@@ -5310,9 +5310,9 @@
         "japaneseShortName": "ソロモン諸島"
     },
     "SO": {
-        "Country Name": "Somalia",
-        "ISO2": "SO",
-        "ISO3": "SOM",
+        "name": "Somalia",
+        "code": "SO",
+        "code3": "SOM",
         "Top Level Domain": "so",
         "FIPS": "SO",
         "ISO Numeric": 706,
@@ -5337,9 +5337,9 @@
         "japaneseShortName": "ソマリア"
     },
     "ZA": {
-        "Country Name": "South Africa",
-        "ISO2": "ZA",
-        "ISO3": "ZAF",
+        "name": "South Africa",
+        "code": "ZA",
+        "code3": "ZAF",
         "Top Level Domain": "za",
         "FIPS": "SF",
         "ISO Numeric": 710,
@@ -5364,9 +5364,9 @@
         "japaneseShortName": "南アフリカ"
     },
     "KR": {
-        "Country Name": "South Korea",
-        "ISO2": "KR",
-        "ISO3": "KOR",
+        "name": "South Korea",
+        "code": "KR",
+        "code3": "KOR",
         "Top Level Domain": "kr",
         "FIPS": "KS",
         "ISO Numeric": 410,
@@ -5391,9 +5391,9 @@
         "japaneseShortName": "韓国"
     },
     "SS": {
-        "Country Name": "South Sudan",
-        "ISO2": "SS",
-        "ISO3": "SSD",
+        "name": "South Sudan",
+        "code": "SS",
+        "code3": "SSD",
         "Top Level Domain": "ss",
         "FIPS": "OD",
         "ISO Numeric": 728,
@@ -5417,9 +5417,9 @@
         "numeric": 728
     },
     "ES": {
-        "Country Name": "Spain",
-        "ISO2": "ES",
-        "ISO3": "ESP",
+        "name": "Spain",
+        "code": "ES",
+        "code3": "ESP",
         "Top Level Domain": "es",
         "FIPS": "SP",
         "ISO Numeric": 724,
@@ -5444,9 +5444,9 @@
         "japaneseShortName": "スペイン"
     },
     "LK": {
-        "Country Name": "Sri Lanka",
-        "ISO2": "LK",
-        "ISO3": "LKA",
+        "name": "Sri Lanka",
+        "code": "LK",
+        "code3": "LKA",
         "Top Level Domain": "lk",
         "FIPS": "CE",
         "ISO Numeric": 144,
@@ -5471,9 +5471,9 @@
         "japaneseShortName": "スリランカ"
     },
     "SD": {
-        "Country Name": "Sudan",
-        "ISO2": "SD",
-        "ISO3": "SDN",
+        "name": "Sudan",
+        "code": "SD",
+        "code3": "SDN",
         "Top Level Domain": "sd",
         "FIPS": "SU",
         "ISO Numeric": 729,
@@ -5498,9 +5498,9 @@
         "japaneseShortName": "スーダン"
     },
     "SR": {
-        "Country Name": "Suriname",
-        "ISO2": "SR",
-        "ISO3": "SUR",
+        "name": "Suriname",
+        "code": "SR",
+        "code3": "SUR",
         "Top Level Domain": "sr",
         "FIPS": "NS",
         "ISO Numeric": 740,
@@ -5525,9 +5525,9 @@
         "japaneseShortName": "スリナム"
     },
     "SJ": {
-        "Country Name": "Svalbard and Jan Mayen",
-        "ISO2": "SJ",
-        "ISO3": "SJM",
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ",
+        "code3": "SJM",
         "Top Level Domain": "sj",
         "FIPS": "SV",
         "ISO Numeric": 744,
@@ -5552,9 +5552,9 @@
         "japaneseShortName": "スヴァールバル諸島およびヤンマイエン島"
     },
     "SZ": {
-        "Country Name": "Swaziland",
-        "ISO2": "SZ",
-        "ISO3": "SWZ",
+        "name": "Swaziland",
+        "code": "SZ",
+        "code3": "SWZ",
         "Top Level Domain": "sz",
         "FIPS": "WZ",
         "ISO Numeric": 748,
@@ -5579,9 +5579,9 @@
         "japaneseShortName": "スワジランド"
     },
     "SE": {
-        "Country Name": "Sweden",
-        "ISO2": "SE",
-        "ISO3": "SWE",
+        "name": "Sweden",
+        "code": "SE",
+        "code3": "SWE",
         "Top Level Domain": "se",
         "FIPS": "SW",
         "ISO Numeric": 752,
@@ -5606,9 +5606,9 @@
         "japaneseShortName": "スウェーデン"
     },
     "CH": {
-        "Country Name": "Switzerland",
-        "ISO2": "CH",
-        "ISO3": "CHE",
+        "name": "Switzerland",
+        "code": "CH",
+        "code3": "CHE",
         "Top Level Domain": "ch",
         "FIPS": "SZ",
         "ISO Numeric": 756,
@@ -5633,9 +5633,9 @@
         "japaneseShortName": "スイス"
     },
     "SY": {
-        "Country Name": "Syria",
-        "ISO2": "SY",
-        "ISO3": "SYR",
+        "name": "Syria",
+        "code": "SY",
+        "code3": "SYR",
         "Top Level Domain": "sy",
         "FIPS": "SY",
         "ISO Numeric": 760,
@@ -5660,9 +5660,9 @@
         "japaneseShortName": "シリア"
     },
     "TW": {
-        "Country Name": "Taiwan",
-        "ISO2": "TW",
-        "ISO3": "TWN",
+        "name": "Taiwan",
+        "code": "TW",
+        "code3": "TWN",
         "Top Level Domain": "tw",
         "FIPS": "TW",
         "ISO Numeric": 158,
@@ -5687,9 +5687,9 @@
         "japaneseShortName": "台湾"
     },
     "TJ": {
-        "Country Name": "Tajikistan",
-        "ISO2": "TJ",
-        "ISO3": "TJK",
+        "name": "Tajikistan",
+        "code": "TJ",
+        "code3": "TJK",
         "Top Level Domain": "tj",
         "FIPS": "TI",
         "ISO Numeric": 762,
@@ -5714,9 +5714,9 @@
         "japaneseShortName": "タジキスタン"
     },
     "TZ": {
-        "Country Name": "Tanzania",
-        "ISO2": "TZ",
-        "ISO3": "TZA",
+        "name": "Tanzania",
+        "code": "TZ",
+        "code3": "TZA",
         "Top Level Domain": "tz",
         "FIPS": "TZ",
         "ISO Numeric": 834,
@@ -5741,9 +5741,9 @@
         "japaneseShortName": "タンザニア"
     },
     "TH": {
-        "Country Name": "Thailand",
-        "ISO2": "TH",
-        "ISO3": "THA",
+        "name": "Thailand",
+        "code": "TH",
+        "code3": "THA",
         "Top Level Domain": "th",
         "FIPS": "TH",
         "ISO Numeric": 764,
@@ -5768,9 +5768,9 @@
         "japaneseShortName": "タイ"
     },
     "TG": {
-        "Country Name": "Togo",
-        "ISO2": "TG",
-        "ISO3": "TGO",
+        "name": "Togo",
+        "code": "TG",
+        "code3": "TGO",
         "Top Level Domain": "tg",
         "FIPS": "TO",
         "ISO Numeric": 768,
@@ -5795,9 +5795,9 @@
         "japaneseShortName": "トーゴ"
     },
     "TK": {
-        "Country Name": "Tokelau",
-        "ISO2": "TK",
-        "ISO3": "TKL",
+        "name": "Tokelau",
+        "code": "TK",
+        "code3": "TKL",
         "Top Level Domain": "tk",
         "FIPS": "TL",
         "ISO Numeric": 772,
@@ -5822,9 +5822,9 @@
         "japaneseShortName": "トケラウ"
     },
     "TO": {
-        "Country Name": "Tonga",
-        "ISO2": "TO",
-        "ISO3": "TON",
+        "name": "Tonga",
+        "code": "TO",
+        "code3": "TON",
         "Top Level Domain": "to",
         "FIPS": "TN",
         "ISO Numeric": 776,
@@ -5849,9 +5849,9 @@
         "japaneseShortName": "トンガ王国"
     },
     "TT": {
-        "Country Name": "Trinidad and Tobago",
-        "ISO2": "TT",
-        "ISO3": "TTO",
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "code3": "TTO",
         "Top Level Domain": "tt",
         "FIPS": "TD",
         "ISO Numeric": 780,
@@ -5876,9 +5876,9 @@
         "japaneseShortName": "トリニダード・トバゴ"
     },
     "TN": {
-        "Country Name": "Tunisia",
-        "ISO2": "TN",
-        "ISO3": "TUN",
+        "name": "Tunisia",
+        "code": "TN",
+        "code3": "TUN",
         "Top Level Domain": "tn",
         "FIPS": "TS",
         "ISO Numeric": 788,
@@ -5903,9 +5903,9 @@
         "japaneseShortName": "チュニジア"
     },
     "TR": {
-        "Country Name": "Turkey",
-        "ISO2": "TR",
-        "ISO3": "TUR",
+        "name": "Turkey",
+        "code": "TR",
+        "code3": "TUR",
         "Top Level Domain": "tr",
         "FIPS": "TU",
         "ISO Numeric": 792,
@@ -5930,9 +5930,9 @@
         "japaneseShortName": "トルコ"
     },
     "TM": {
-        "Country Name": "Turkmenistan",
-        "ISO2": "TM",
-        "ISO3": "TKM",
+        "name": "Turkmenistan",
+        "code": "TM",
+        "code3": "TKM",
         "Top Level Domain": "tm",
         "FIPS": "TX",
         "ISO Numeric": 795,
@@ -5957,9 +5957,9 @@
         "japaneseShortName": "トルクメニスタン"
     },
     "TC": {
-        "Country Name": "Turks and Caicos Islands",
-        "ISO2": "TC",
-        "ISO3": "TCA",
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "code3": "TCA",
         "Top Level Domain": "tc",
         "FIPS": "TK",
         "ISO Numeric": 796,
@@ -5984,9 +5984,9 @@
         "japaneseShortName": "タークス・カイコス諸島"
     },
     "TV": {
-        "Country Name": "Tuvalu",
-        "ISO2": "TV",
-        "ISO3": "TUV",
+        "name": "Tuvalu",
+        "code": "TV",
+        "code3": "TUV",
         "Top Level Domain": "tv",
         "FIPS": "TV",
         "ISO Numeric": 798,
@@ -6011,9 +6011,9 @@
         "japaneseShortName": "ツバル"
     },
     "VI": {
-        "Country Name": "U.S. Virgin Islands",
-        "ISO2": "VI",
-        "ISO3": "VIR",
+        "name": "U.S. Virgin Islands",
+        "code": "VI",
+        "code3": "VIR",
         "Top Level Domain": "vi",
         "FIPS": "VQ",
         "ISO Numeric": 850,
@@ -6038,9 +6038,9 @@
         "japaneseShortName": "アメリカ領ヴァージン諸島"
     },
     "UG": {
-        "Country Name": "Uganda",
-        "ISO2": "UG",
-        "ISO3": "UGA",
+        "name": "Uganda",
+        "code": "UG",
+        "code3": "UGA",
         "Top Level Domain": "ug",
         "FIPS": "UG",
         "ISO Numeric": 800,
@@ -6065,9 +6065,9 @@
         "japaneseShortName": "ウガンダ"
     },
     "UA": {
-        "Country Name": "Ukraine",
-        "ISO2": "UA",
-        "ISO3": "UKR",
+        "name": "Ukraine",
+        "code": "UA",
+        "code3": "UKR",
         "Top Level Domain": "ua",
         "FIPS": "UP",
         "ISO Numeric": 804,
@@ -6092,9 +6092,9 @@
         "japaneseShortName": "ウクライナ"
     },
     "AE": {
-        "Country Name": "United Arab Emirates",
-        "ISO2": "AE",
-        "ISO3": "ARE",
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "code3": "ARE",
         "Top Level Domain": "ae",
         "FIPS": "AE",
         "ISO Numeric": 784,
@@ -6119,9 +6119,9 @@
         "japaneseShortName": "アラブ首長国連邦"
     },
     "GB": {
-        "Country Name": "United Kingdom",
-        "ISO2": "GB",
-        "ISO3": "GBR",
+        "name": "United Kingdom",
+        "code": "GB",
+        "code3": "GBR",
         "Top Level Domain": "uk",
         "FIPS": "UK",
         "ISO Numeric": 826,
@@ -6146,9 +6146,9 @@
         "japaneseShortName": "イギリス"
     },
     "US": {
-        "Country Name": "United States",
-        "ISO2": "US",
-        "ISO3": "USA",
+        "name": "United States",
+        "code": "US",
+        "code3": "USA",
         "Top Level Domain": "us",
         "FIPS": "US",
         "ISO Numeric": 840,
@@ -6173,9 +6173,9 @@
         "japaneseShortName": "アメリカ合衆国"
     },
     "UY": {
-        "Country Name": "Uruguay",
-        "ISO2": "UY",
-        "ISO3": "URY",
+        "name": "Uruguay",
+        "code": "UY",
+        "code3": "URY",
         "Top Level Domain": "uy",
         "FIPS": "UY",
         "ISO Numeric": 858,
@@ -6200,9 +6200,9 @@
         "japaneseShortName": "ウルグアイ"
     },
     "UZ": {
-        "Country Name": "Uzbekistan",
-        "ISO2": "UZ",
-        "ISO3": "UZB",
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "code3": "UZB",
         "Top Level Domain": "uz",
         "FIPS": "UZ",
         "ISO Numeric": 860,
@@ -6227,9 +6227,9 @@
         "japaneseShortName": "ウズベキスタン"
     },
     "VU": {
-        "Country Name": "Vanuatu",
-        "ISO2": "VU",
-        "ISO3": "VUT",
+        "name": "Vanuatu",
+        "code": "VU",
+        "code3": "VUT",
         "Top Level Domain": "vu",
         "FIPS": "NH",
         "ISO Numeric": 548,
@@ -6254,9 +6254,9 @@
         "japaneseShortName": "バヌアツ"
     },
     "VA": {
-        "Country Name": "Vatican",
-        "ISO2": "VA",
-        "ISO3": "VAT",
+        "name": "Vatican",
+        "code": "VA",
+        "code3": "VAT",
         "Top Level Domain": "va",
         "FIPS": "VT",
         "ISO Numeric": 336,
@@ -6281,9 +6281,9 @@
         "japaneseShortName": "バチカン市国"
     },
     "VE": {
-        "Country Name": "Venezuela",
-        "ISO2": "VE",
-        "ISO3": "VEN",
+        "name": "Venezuela",
+        "code": "VE",
+        "code3": "VEN",
         "Top Level Domain": "ve",
         "FIPS": "VE",
         "ISO Numeric": 862,
@@ -6308,9 +6308,9 @@
         "japaneseShortName": "ベネズエラ"
     },
     "VN": {
-        "Country Name": "Vietnam",
-        "ISO2": "VN",
-        "ISO3": "VNM",
+        "name": "Vietnam",
+        "code": "VN",
+        "code3": "VNM",
         "Top Level Domain": "vn",
         "FIPS": "VM",
         "ISO Numeric": 704,
@@ -6335,9 +6335,9 @@
         "japaneseShortName": "ベトナム"
     },
     "WF": {
-        "Country Name": "Wallis and Futuna",
-        "ISO2": "WF",
-        "ISO3": "WLF",
+        "name": "Wallis and Futuna",
+        "code": "WF",
+        "code3": "WLF",
         "Top Level Domain": "wf",
         "FIPS": "WF",
         "ISO Numeric": 876,
@@ -6362,9 +6362,9 @@
         "japaneseShortName": "ウォリス・フツナ"
     },
     "EH": {
-        "Country Name": "Western Sahara",
-        "ISO2": "EH",
-        "ISO3": "ESH",
+        "name": "Western Sahara",
+        "code": "EH",
+        "code3": "ESH",
         "Top Level Domain": "eh",
         "FIPS": "WI",
         "ISO Numeric": 732,
@@ -6389,9 +6389,9 @@
         "japaneseShortName": "西サハラ"
     },
     "YE": {
-        "Country Name": "Yemen",
-        "ISO2": "YE",
-        "ISO3": "YEM",
+        "name": "Yemen",
+        "code": "YE",
+        "code3": "YEM",
         "Top Level Domain": "ye",
         "FIPS": "YM",
         "ISO Numeric": 887,
@@ -6416,9 +6416,9 @@
         "japaneseShortName": "イエメン"
     },
     "ZM": {
-        "Country Name": "Zambia",
-        "ISO2": "ZM",
-        "ISO3": "ZMB",
+        "name": "Zambia",
+        "code": "ZM",
+        "code3": "ZMB",
         "Top Level Domain": "zm",
         "FIPS": "ZA",
         "ISO Numeric": 894,
@@ -6443,9 +6443,9 @@
         "japaneseShortName": "ザンビア"
     },
     "ZW": {
-        "Country Name": "Zimbabwe",
-        "ISO2": "ZW",
-        "ISO3": "ZWE",
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "code3": "ZWE",
         "Top Level Domain": "zw",
         "FIPS": "ZI",
         "ISO Numeric": 716,
@@ -6470,70 +6470,70 @@
         "japaneseShortName": "ジンバブエ"
     },
     "AX": {
-        "Country Name": "Aland Islands",
+        "name": "Aland Islands",
         "englishShortName": "Åland Islands",
         "frenchShortName": "Åland(les Îles)",
         "numeric": 248,
         "japaneseShortName": "アランド諸島"
     },
     "BV": {
-        "Country Name": "Bouvet Island",
+        "name": "Bouvet Island",
         "englishShortName": "Bouvet Island",
         "frenchShortName": "Bouvet (l'Île)",
         "numeric": 74,
         "japaneseShortName": "ブーベ島"
     },
     "GF": {
-        "Country Name": "French Guiana",
+        "name": "French Guiana",
         "englishShortName": "French Guiana",
         "frenchShortName": "Guyane française (la )",
         "numeric": 254,
         "japaneseShortName": "フランス領ギアナ"
     },
     "TF": {
-        "Country Name": "French Southern Territories",
+        "name": "French Southern Territories",
         "englishShortName": "French Southern Territories (the)",
         "frenchShortName": "Terres australes françaises (les)",
         "numeric": 260,
         "japaneseShortName": "フランス領南方領土"
     },
     "GP": {
-        "Country Name": "Guadeloupe",
+        "name": "Guadeloupe",
         "englishShortName": "Guadeloupe",
         "frenchShortName": "Guadeloupe (la)",
         "numeric": 312,
         "japaneseShortName": "グアドループ島"
     },
     "HM": {
-        "Country Name": "Heard Island & Mcdonald Islands",
+        "name": "Heard Island & Mcdonald Islands",
         "englishShortName": "Heard Island and McDonald Islands",
         "frenchShortName": "Heard-et-Îles MacDonald (l'Île)",
         "numeric": 334,
         "japaneseShortName": "ハード島とマクドナルド諸島"
     },
     "MQ": {
-        "Country Name": "Martinique",
+        "name": "Martinique",
         "englishShortName": "Martinique",
         "frenchShortName": "Martinique (la)",
         "numeric": 474,
         "japaneseShortName": "マルティニーク"
     },
     "NF": {
-        "Country Name": "Norfolk Island",
+        "name": "Norfolk Island",
         "englishShortName": "Norfolk Island",
         "frenchShortName": "Norfolk (l'Île)",
         "numeric": 574,
         "japaneseShortName": "ノーフォーク島"
     },
     "GS": {
-        "Country Name": "South Georgia And Sandwich Isl.",
+        "name": "South Georgia And Sandwich Isl.",
         "englishShortName": "South Georgia and the South Sandwich Islands",
         "frenchShortName": "Géorgie du Sud-et-les Îles Sandwich du Sud (la)",
         "numeric": 239,
         "japaneseShortName": "サウスジョージア・サウスサンドウィッチ諸島"
     },
     "UM": {
-        "Country Name": "United States Outlying Islands",
+        "name": "United States Outlying Islands",
         "englishShortName": "United States Minor Outlying Islands (the)",
         "frenchShortName": "Îles mineures éloignées des États-Unis (les)",
         "numeric": 581,

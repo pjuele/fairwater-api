@@ -1,9 +1,18 @@
 from fastapi import FastAPI
+from fastapi import Response
+from fastapi.staticfiles import StaticFiles
 import pycountry
 import json
-
+import pandas as pd
+# import numpy as np
+# import matplotlib.pyplot as plt
+# import math
+from agency_score import get_gdp_data
+from country_data import get_all_countries_in_the_world_df
 app = FastAPI()
 
+# app.mount("/src/data", StaticFiles(directory="/"), name="data")
+# app.mount("/data/hex", StaticFiles(directory="/"), name="hex")
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 @app.get("/")
@@ -44,7 +53,13 @@ async def treaties():
 
 @app.get("/countries")
 async def countries():
+    # return Response(get_all_countries_in_the_world_df().to_json(orient="records"), media_type="application/json")
     return get_countries_data()
+
+@app.get("/gdp")
+async def gdp():
+    return Response(get_gdp_data().reset_index().to_json(orient="records"), media_type="application/json")
+    # return get_gdp_data()
 
 @app.get("/data/{countryIsoCode}")
 async def countryData(countryIsoCode: str):

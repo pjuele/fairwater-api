@@ -8,6 +8,7 @@ authors = [
 dependencies = [
     "fastapi[all]>=0.110.2",
     "pycountry>=23.12.11",
+    "pandas>=2.2.2",
 ]
 readme = "README.md"
 requires-python = ">= 3.12"
